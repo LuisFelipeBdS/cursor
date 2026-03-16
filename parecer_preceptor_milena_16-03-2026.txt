@@ -462,6 +462,632 @@ Continue acompanhando a evolução da paciente diariamente, contando os dias
 de antibioticoterapia e comparando os parâmetros clínicos e laboratoriais.
 Esse caso é riquíssimo para aprendizado em infectologia.
 
+################################################################################
+################################################################################
+##                                                                            ##
+##    ATUALIZAÇÃO - EVOLUÇÃO DAS 16:00h - INTUBAÇÃO OROTRAQUEAL (IOT)        ##
+##                                                                            ##
+################################################################################
+################################################################################
+
+================================================================================
+VII. REGISTRO DA EVOLUÇÃO DE ENFERMAGEM - 16/03/2026 ÀS 16:00h
+================================================================================
+
+Paciente evoluiu com PIORA DA INSUFICIÊNCIA RESPIRATÓRIA, necessitando de
+INTUBAÇÃO OROTRAQUEAL (IOT) - FALHA DE VNI CONFIRMADA.
+
+DADOS DO PROCEDIMENTO (conforme evolução de enfermagem):
+  - TOT 8.0, bem fixado, bem acoplado ao VMI
+  - Modo ventilatório: PC (Pressão Controlada)
+  - FiO2: 60% | PEEP: 6 cmH2O
+  - Drogas de intubação (ISR):
+      * Succinilcolina: 2 ampolas diluídas em 20 mL de ABD
+      * Etomidato: 1 ampola diluída em 10 mL de ABD
+  - Drogas de manutenção (sedoanalgesia + BNM):
+      * Fentanil: 2 mL/h
+      * Cetamina: 10 mL/h
+      * Midazolam: 20 mL/h
+      * Rocurônio: 20 mL/h (bloqueio neuromuscular contínuo)
+  - SNE passada (técnica limpa, bem fixada, ausculta positiva, aguarda
+    confirmação radiológica)
+  - SVD nº 14 (técnica limpa e asséptica, clorexidina aquosa, 15 mL ABD,
+    retorno de urina clara)
+  - Segue em cuidados intensivos
+
+================================================================================
+VIII. ANÁLISE DO PRECEPTOR - EVENTO IOT 16/03 16:00h
+================================================================================
+
+----------------------------------------------------------------------
+A. A IOT ERA PREVISÍVEL - REFLEXÃO SOBRE TEMPORALIDADE
+----------------------------------------------------------------------
+
+   Na análise da evolução da manhã (seção III-B deste documento), já havia
+   sido alertado sobre a DISSOCIAÇÃO CLÍNICO-GASOMÉTRICA: apesar da melhora
+   da P/F (de ~81 para ~212), a paciente mantinha FR 40, uso de musculatura
+   acessória e desconforto importante. Foi recomendado definir critérios
+   claros de falha de VNI e threshold para IOT.
+
+   LIÇÃO CLÍNICA: Na PCP grave, a VNI tem alto índice de falha. Estudos
+   mostram que até 50-70% dos pacientes com PCP e SDRA moderada-grave que
+   iniciam VNI evoluem para IOT. A decisão de tentar VNI foi razoável, mas
+   a equipe deve estar SEMPRE preparada para IOT iminente nesse cenário.
+   O atraso na intubação (late intubation) em pacientes com falha de VNI
+   está associado a aumento de mortalidade.
+
+   PERGUNTA PARA REFLEXÃO: A paciente estava com FR 40, uso de musculatura
+   acessória e SpO2 93% pela manhã. Será que a IOT deveria ter sido
+   antecipada para antes das 16h? A VNI foi tentada por quantas horas
+   antes da falha? Essas informações são importantes para a discussão.
+
+----------------------------------------------------------------------
+B. INTUBAÇÃO DE SEQUÊNCIA RÁPIDA (ISR) - ANÁLISE DAS DROGAS
+----------------------------------------------------------------------
+
+   INDUTOR: ETOMIDATO
+   - Vantagem: excelente estabilidade hemodinâmica (boa escolha em paciente
+     sem DVA, mas com risco de instabilidade).
+   - ALERTA IMPORTANTE: O etomidato causa supressão adrenal transitória por
+     inibição da 11-beta-hidroxilase. Em dose única para ISR, o efeito
+     dura 12-24h. Em paciente com PCP grave em uso de CORTICOIDE ADJUVANTE
+     (hidrocortisona), esse efeito é parcialmente mitigado pela reposição
+     exógena, mas deve ser considerado.
+   - Alternativas: cetamina como indutor teria a vantagem de broncodilatação
+     e efeito simpatomimético, sem supressão adrenal. Para futuras
+     discussões: a cetamina está cada vez mais sendo preferida ao etomidato
+     em ISR de pacientes sépticos/imunossuprimidos.
+
+   BLOQUEADOR NEUROMUSCULAR: SUCCINILCOLINA
+   - BNM despolarizante de ação ultrarrápida (ideal para ISR).
+   - ALERTA: A succinilcolina causa liberação de potássio (elevação de
+     ~0.5-1.0 mEq/L). A paciente tinha K+ 3.16 mEq/L na manhã, então
+     neste caso o risco de hipercalemia grave era baixo. PORÉM, se o K+
+     já estivesse mais alto (efeito do SMX-TMP acumulando), o rocurônio
+     em dose alta (1.2 mg/kg) seria alternativa mais segura para ISR.
+   - Verificar: foi feito K+ de controle antes da IOT?
+
+----------------------------------------------------------------------
+C. SEDOANALGESIA EM VMI - ANÁLISE CRÍTICA DO ESQUEMA
+----------------------------------------------------------------------
+
+   ESQUEMA ATUAL: Fentanil + Cetamina + Midazolam + Rocurônio contínuo
+
+   1. FENTANIL (2 mL/h):
+      - Componente de analgesia. Apropriado. A concentração da solução
+        não foi informada (padrão usual: 50 mcg/mL; 2 mL/h = 100 mcg/h).
+      - Monitorar: bradicardia, hipotensão, rigidez torácica (raro em
+        infusão contínua), constipação (menor relevância aguda).
+
+   2. CETAMINA (10 mL/h):
+      - Agente dissociativo com propriedades analgésicas e broncodilatadoras.
+        BOA ESCOLHA na insuficiência respiratória, pois não deprime o
+        drive respiratório (embora em VMI isso seja menos relevante) e
+        mantém tônus simpático (preserva PA e FC).
+      - Pode causar: sialorreia (considerar aspiração traqueal frequente),
+        alucinações (mitigadas pelo midazolam associado), hipertensão.
+
+   3. MIDAZOLAM (20 mL/h):
+      - PONTO DE ATENÇÃO: O midazolam em infusão contínua prolongada é
+        associado a piores desfechos em UTI: maior tempo de VMI, maior
+        incidência de delirium, acúmulo de metabólito ativo (alfa-
+        hidroximidazolam, especialmente se disfunção renal).
+      - RECOMENDAÇÃO: Se a sedação for necessária por mais de 48h,
+        considerar transição para PROPOFOL (se hemodinamicamente estável)
+        ou DEXMEDETOMIDINA (menor risco de delirium, sem depressão
+        respiratória). Discutir com equipe de terapia intensiva.
+
+   4. ROCURÔNIO CONTÍNUO (20 mL/h):
+      *** ALERTA MÁXIMO ***
+      - O bloqueio neuromuscular (BNM) contínuo em UTI deve ser reservado
+        para situações MUITO ESPECÍFICAS:
+        (a) SDRA grave com P/F < 150 e dissincronia refratária à sedação
+            otimizada;
+        (b) Primeiras 48h de SDRA grave (evidência do estudo ACURASYS);
+        (c) Após falha de otimização da sedação profunda.
+      - RISCOS DO BNM CONTÍNUO:
+        * Miopatia do doente crítico / fraqueza muscular adquirida em UTI
+          (ICU-Acquired Weakness) - efeito sinérgico com corticoide!
+        * Impossibilidade de avaliar nível de consciência e dor
+        * Corneopatia se proteção ocular inadequada
+        * Acúmulo em disfunção renal (rocurônio: eliminação hepática,
+          porém metabólito ativo tem eliminação renal)
+      - A PACIENTE JÁ ESTÁ EM USO DE CORTICOIDE (hidrocortisona):
+        A combinação corticoide + BNM prolongado é o principal fator de
+        risco para miopatia do doente crítico. MINIMIZAR a duração do
+        BNM ao máximo possível.
+      - CONDUTA SUGERIDA:
+        * Reavaliar necessidade do BNM a cada 4-6h
+        * Usar monitorização de TOF (Train of Four) se disponível
+        * Tentar suspender BNM o mais precocemente possível (idealmente
+          em 24-48h)
+        * Se necessário manter, documentar a indicação claramente
+
+----------------------------------------------------------------------
+D. PARÂMETROS VENTILATÓRIOS - AVALIAÇÃO CRÍTICA
+----------------------------------------------------------------------
+
+   MODO: PC (Pressão Controlada) | FiO2: 60% | PEEP: 6 cmH2O
+
+   INFORMAÇÕES AUSENTES (ESSENCIAIS - obter amanhã):
+   - Pressão inspiratória (Pinsp) programada
+   - Frequência respiratória programada
+   - Volume corrente (Vt) resultante → alvo: 4-6 mL/kg de peso PREDITO
+   - Pressão de platô (Pplat) → alvo: < 30 cmH2O
+   - Driving Pressure (ΔP = Pplat - PEEP) → alvo: < 15 cmH2O
+   - Complacência estática (Vt / ΔP)
+
+   PEEP DE 6 cmH2O - POSSIVELMENTE INSUFICIENTE:
+   - Para SDRA por PCP, a PEEP recomendada costuma ser mais alta (10-16
+     cmH2O), visando recrutamento alveolar e melhora da oxigenação.
+   - A tabela PEEP/FiO2 do ARDSnet para FiO2 60% sugere PEEP de 10-12.
+   - PEEP baixa pode resultar em colapso alveolar cíclico (atelectrauma)
+     e necessidade de FiO2 mais alta (toxicidade por O2).
+   - RECOMENDAÇÃO: Titular PEEP guiada por mecânica respiratória ou pela
+     tabela ARDSnet. Considerar trial de PEEP mais alta com monitorização
+     hemodinâmica (PEEP alta pode reduzir retorno venoso e causar
+     hipotensão).
+
+   VENTILAÇÃO PROTETORA:
+   - A estratégia de ventilação protetora (ARDSnet) é OBRIGATÓRIA em SDRA:
+     * Vt 4-6 mL/kg de peso predito
+     * Pplat < 30 cmH2O
+     * Driving Pressure < 15 cmH2O
+     * pH alvo: 7.30-7.45 (hipercapnia permissiva aceitável)
+   - Verificar amanhã se esses parâmetros estão sendo cumpridos.
+
+   GASOMETRIA PÓS-IOT:
+   - DEVERIA ter sido colhida 30-60 min após a IOT para avaliar a
+     adequação dos parâmetros ventilatórios iniciais. Verificar se foi
+     feita e registrar resultado.
+
+----------------------------------------------------------------------
+E. MUDANÇAS OBRIGATÓRIAS NA PRESCRIÇÃO PÓS-IOT
+----------------------------------------------------------------------
+
+   Com a IOT, toda a prescrição precisa ser revista. Medicações que
+   estavam VO precisam ser convertidas:
+
+   1. SMX-TMP: estava VO → CONVERTER PARA IV (OBRIGATÓRIO)
+      Dose IV: 15-20 mg/kg/dia de TMP dividido em 3-4 doses
+      (ou manter via SNE após confirmação radiológica da posição,
+      porém IV é FORTEMENTE preferível na PCP grave com IOT)
+
+   2. Azitromicina: estava 500mg VO → converter para IV ou via SNE
+      (Azitromicina IV 500mg em 250mL SF0.9%, infundir em 1h)
+
+   3. Fluconazol: já era IV → MANTER
+
+   4. Ceftriaxona: já era IV → MANTER
+
+   5. Hidrocortisona: já era IV → MANTER
+
+   6. Haloperidol: estava VO 10 gts 8/8h → com sedação contínua em
+      VMI, NÃO HÁ MAIS INDICAÇÃO. SUSPENDER.
+
+   7. Salbutamol spray: era INAL → converter para nebulização em
+      linha no circuito do ventilador ou salbutamol spray via
+      espaçador adaptado ao TOT
+
+   8. Ipratrópio nebulização: avaliar se mantém via circuito do
+      ventilador
+
+   9. Omeprazol: manter IV (profilaxia de úlcera de estresse em VMI
+      é indicação formal)
+
+   10. DIETA: com SNE posicionada (após RX confirmatório), iniciar
+       dieta ENTERAL precoce (dentro de 24-48h) - reduz mortalidade
+       em pacientes críticos
+
+   11. NOVOS ITENS NECESSÁRIOS NA PRESCRIÇÃO:
+       - Protocolo de sedação com alvo (RASS ou SAS)
+       - Profilaxia de TVP: enoxaparina 40mg SC 1x/dia (se não
+         houver contraindicação) → NÃO ESTAVA PRESCRITA ANTES!
+       - Proteção ocular (gel lubrificante + oclusão) pelo BNM
+       - Aspiração traqueal conforme necessidade
+       - Cuidados com TOT: verificar pressão do cuff (20-30 cmH2O)
+       - Cuidados com SVD: sistema fechado, higiene, avaliar
+         remoção precoce quando possível
+
+----------------------------------------------------------------------
+F. SNE E SVD - CUIDADOS E MONITORAMENTO
+----------------------------------------------------------------------
+
+   SNE:
+   - Aguardar CONFIRMAÇÃO RADIOLÓGICA da posição antes de iniciar
+     dieta ou administrar medicações por SNE
+   - Após confirmação: iniciar dieta enteral precoce (dentro de 24-48h)
+   - Calcular necessidades calórico-proteicas (25-30 kcal/kg/dia,
+     1.2-2.0 g proteína/kg/dia em paciente crítico)
+   - Solicitar parecer da nutrição
+
+   SVD:
+   - Monitorar débito urinário: alvo > 0.5 mL/kg/h
+   - Registrar balanço hídrico rigoroso
+   - Avaliar diariamente a necessidade da SVD (bundle de prevenção de
+     ITU associada a cateter)
+
+================================================================================
+IX. CHECKLIST COMPLETO PARA 17/03/2026 - O QUE FAZER AO CHEGAR NO SETOR
+================================================================================
+
+Luis Felipe, abaixo está o roteiro detalhado do que você deve procurar,
+verificar, corrigir e fazer amanhã quando chegar ao setor. A paciente mudou
+de patamar: saiu de suporte não invasivo para VMI, e agora os cuidados e
+a complexidade aumentaram significativamente.
+
+----------------------------------------------------------------------
+BLOCO 1: PRIMEIRA COISA AO CHEGAR (antes de evoluir)
+----------------------------------------------------------------------
+
+□ 1.1  Ler TODAS as evoluções médicas e de enfermagem desde sua saída
+       (16/03 16h até 17/03 manhã). Houve intercorrências noturnas?
+       Instabilidade hemodinâmica? Necessidade de DVA? Febre?
+
+□ 1.2  Verificar os SINAIS VITAIS DAS ÚLTIMAS 12h no monitor/prontuário:
+       - PA (houve hipotensão? Necessitou DVA?)
+       - FC (taquicardia persistente? Bradicardia pelo fentanil?)
+       - SpO2 em VMI (alvo 92-96%)
+       - Temperatura (febre? hipotermia?)
+       - Débito urinário (mL/h e mL/kg/h nas últimas 6-12h)
+
+□ 1.3  Verificar BALANÇO HÍDRICO acumulado (24h e desde internação).
+       Balanço muito positivo piora a oxigenação em SDRA.
+
+□ 1.4  Olhar o VENTILADOR à beira do leito:
+       - Anotar: modo, FiO2, PEEP, Pinsp, FR programada, Vt expirado
+       - Calcular: P/F, driving pressure, complacência estática
+       - Verificar: há dissincronia? Alarmes frequentes?
+
+----------------------------------------------------------------------
+BLOCO 2: GASOMETRIA E LABORATÓRIO
+----------------------------------------------------------------------
+
+□ 2.1  GASOMETRIA PÓS-IOT: verificar se foi colhida após a intubação
+       (deveria ter sido feita 30-60 min pós-IOT). Registrar resultado.
+       Se não foi feita, solicitar uma agora.
+
+□ 2.2  GASOMETRIA DA MANHÃ (17/03): solicitar nova gasometria arterial.
+       Calcular P/F com FiO2 exata do ventilador (agora é precisa, não
+       estimada). Comparar com todas as anteriores:
+       - 15/03 MNR 15L: P/F ~81 (SDRA grave)
+       - 16/03 MH 10L:  P/F ~212-254 (melhora)
+       - 16/03 pós-IOT:  P/F = ??? (verificar)
+       - 17/03 manhã:    P/F = ??? (calcular)
+
+□ 2.3  Solicitar LABORATÓRIO COMPLETO se ainda não solicitado:
+       *** EXAMES PRIORITÁRIOS ***
+       - Hemograma completo (comparar com 14/03)
+       - Ureia, creatinina, Na+, K+, Ca2+, Mg2+, P (fósforo)
+       - TGO, TGP, bilirrubinas, GGT, FA (hepatotoxicidade do SMX-TMP)
+       - DHL (LDH) → ESSENCIAL para PCP, provavelmente >500
+       - Gasometria arterial (já mencionada acima)
+       - PCR (proteína C reativa) - marcador inflamatório
+
+       *** EXAMES PENDENTES QUE DEVEM SER COBRADOS ***
+       - CD4 e carga viral → verificar se já foram colhidos, cobrar
+         resultado no laboratório
+       - LAM urinário → resultado?
+       - Antígeno para histoplasma → resultado?
+
+       *** EXAMES QUE AINDA NÃO FORAM SOLICITADOS ***
+       - DHL (se ainda não pedido) → PEDIR HOJE
+       - 1,3-beta-D-glucano (se disponível no serviço) → PEDIR HOJE
+       - CrAg sérico (antígeno criptocócico) → PEDIR HOJE
+       - Hemoculturas (2 pares, sítios diferentes) → COLETAR HOJE
+         (se não foram colhidas antes)
+       - Sorologias basais: HBsAg, anti-HBs, anti-HBc, anti-HCV,
+         VDRL, anti-Toxo IgG, anti-CMV IgG → PEDIR HOJE
+       - CMV PCR quantitativo → PEDIR HOJE
+       - Cultura de aspirado traqueal (agora POSSÍVEL com TOT!) →
+         PEDIR HOJE - solicitar pesquisa de BAAR, fungos e cultura
+         para Pneumocystis se disponível
+
+□ 2.4  POTÁSSIO - ATENÇÃO REDOBRADA:
+       - O K+ estava 3.16 ontem com alcalose respiratória
+       - Após IOT e ventilação controlada, a alcalose deve ter corrigido
+         (ou pelo menos atenuado), liberando K+ intracelular
+       - O SMX-TMP em alta dose causa hipercalemia
+       - VERIFICAR K+ de controle: pode ter subido significativamente
+       - Se K+ > 5.5: suspender reposição, ECG, considerar medidas
+       - Se K+ entre 4.5-5.5: não repor mais, monitorar 2x/dia
+
+----------------------------------------------------------------------
+BLOCO 3: VERIFICAR PRESCRIÇÃO MÉDICA
+----------------------------------------------------------------------
+
+□ 3.1  CONFIRMAR que SMX-TMP foi trocado para VIA ENDOVENOSA:
+       - Se ainda está VO/SNE: discutir com plantonista a troca para IV
+       - Dose IV: TMP 15-20 mg/kg/dia dividido em 3-4 tomadas
+       - Contar dias: D3 de SMX-TMP em 17/03 (iniciou 15/03)
+
+□ 3.2  CONFIRMAR que azitromicina foi convertida (IV ou via SNE):
+       - D4 de azitromicina em 17/03 (iniciou 14/03, termina 19/03)
+
+□ 3.3  CONFIRMAR prescrição de SEDAÇÃO E ANALGESIA adequada:
+       - Verificar se há alvo de RASS definido (-4 a -5 nas primeiras
+         24-48h se em BNM; -2 a 0 após retirada do BNM)
+       - O midazolam contínuo deve ser substituído por propofol ou
+         dexmedetomidina se sedação >48h (discutir com intensivista)
+
+□ 3.4  VERIFICAR STATUS DO ROCURÔNIO (BNM contínuo):
+       *** PRIORIDADE ALTA ***
+       - Está mantido? Há indicação clara documentada?
+       - Tentar suspender se: SpO2 adequada, sem dissincronia grave,
+         sedação otimizada
+       - Se mantido: verificar se há monitorização de TOF
+       - Lembrar: CORTICOIDE + BNM = alto risco de miopatia do
+         doente crítico. Cada hora conta.
+
+□ 3.5  VERIFICAR SE HALOPERIDOL FOI SUSPENSO:
+       - Com sedação contínua em VMI, não há indicação
+
+□ 3.6  VERIFICAR PROFILAXIA DE TVP:
+       - Enoxaparina 40mg SC 1x/dia (ou HNF 5000UI SC 8/8h)
+       - Se não prescrita: solicitar inclusão (paciente acamada,
+         em VMI, com infecção grave = alto risco trombótico)
+
+□ 3.7  VERIFICAR PROTEÇÃO OCULAR:
+       - Paciente em BNM não pisca → risco de corneopatia de exposição
+       - Prescrever: gel lubrificante ocular + oclusão palpebral
+
+□ 3.8  VERIFICAR SNE - RX CONFIRMATÓRIO:
+       - O RX confirmou posicionamento adequado da SNE?
+       - Se sim: já foi iniciada dieta enteral?
+       - Se não: solicitar RX e NÃO usar a SNE até confirmação
+       - Solicitar parecer da NUTRIÇÃO para cálculo calórico-proteico
+
+□ 3.9  VERIFICAR HIDROCORTISONA - CONTAR DIAS:
+       - Qual dia de corticoide adjuvante?
+       - Esquema clássico PCP (equivalente prednisona):
+         Dias 1-5: 40mg 12/12h (80mg/dia)
+         Dias 6-10: 40mg 1x/dia
+         Dias 11-21: 20mg 1x/dia
+       - Se iniciou em 15/03, estamos em D3 → manter dose plena
+       - Programar redução a partir de D6 (20/03)
+
+□ 3.10 VERIFICAR BRONCODILATADORES:
+       - Salbutamol e ipratrópio: foram adaptados para uso em VMI?
+         (nebulização em linha ou spray via espaçador no circuito)
+
+□ 3.11 ANTIBIOTICOTERAPIA - CONTAR TODOS OS DIAS:
+       Em 17/03/2026:
+       - SMX-TMP:    D3 (15/03 → 05/04) - total 21 dias
+       - Ceftriaxona: D4 (14/03 → 21/03) - total 7 dias
+       - Azitromicina: D4 (14/03 → 19/03) - total 5 dias
+       - Fluconazol:  D2 (16/03 → 30/03) - total 14 dias
+       - Hidrocortisona: D3 (adjuvante PCP - 21 dias em desmame)
+
+----------------------------------------------------------------------
+BLOCO 4: EXAME FÍSICO DIRECIONADO - O QUE PROCURAR
+----------------------------------------------------------------------
+
+□ 4.1  NEUROLÓGICO (limitado pela sedação/BNM):
+       - Se BNM foi suspenso: avaliar RASS, pupilas, reflexos
+       - Se BNM mantido: avaliar apenas pupilas (tamanho, simetria,
+         fotorreação)
+       - Excluir: midríase fixa (herniação), miose bilateral
+         (opioide - esperada pelo fentanil)
+
+□ 4.2  RESPIRATÓRIO:
+       - Ausculta: MV presente bilateralmente? Simétrico? Crepitações?
+         Roncos? Silêncio em algum campo?
+       - Verificar TOT: fixação adequada, posição (marca no lábio),
+         pressão do cuff (20-30 cmH2O)
+       - Secreção traqueal: quantidade, aspecto (purulenta? hemática?
+         clara?) → coletar para cultura se purulenta
+       - Expansibilidade torácica: simétrica?
+
+□ 4.3  CARDIOVASCULAR:
+       - Ritmo, bulhas, sopros
+       - Perfusão periférica, TEC, pulsos
+       - Está em DVA? Se sim, qual e qual dose?
+       - A introdução de PEEP + sedação pode causar hipotensão:
+         verificar necessidade de volume ou DVA
+
+□ 4.4  ABDOMINAL:
+       - Distensão? (frequente em VMI com sedação)
+       - RHA presentes? (íleo paralítico pela sedação/opioide)
+       - Volume residual gástrico se em dieta enteral
+
+□ 4.5  PELE / MUCOSAS:
+       - Placas de candidíase oral: estão melhorando com fluconazol?
+       - Lesões cutâneas novas? (exantema, petéquias, lesões
+         herpéticas, sarcoma de Kaposi?)
+       - Avaliar acessos venosos: sinais de flebite? Infiltração?
+       - Úlceras de pressão: risco alto em BNM (não se move)
+
+□ 4.6  EXTREMIDADES:
+       - Edemas? (sobrecarga hídrica)
+       - Panturrilhas: sinais de TVP?
+
+□ 4.7  OLHOS:
+       - Se em BNM: verificar oclusão palpebral e lubrificação
+
+----------------------------------------------------------------------
+BLOCO 5: RX TÓRAX DE CONTROLE
+----------------------------------------------------------------------
+
+□ 5.1  Solicitar RX TÓRAX AP no leito (se não feito nas últimas 12h):
+       VERIFICAR:
+       - Posição do TOT: ponta deve estar 2-4 cm acima da carina
+         (aproximadamente na altura de T3-T4). Se muito baixo →
+         intubação seletiva (atelectasia contralateral). Se muito
+         alto → risco de extubação acidental.
+       - Posição da SNE: ponta deve estar além do piloro (ideal) ou
+         pelo menos no estômago (aceitável para início de dieta)
+       - Posição da SVD: não visível em RX (não é radiopaca geralmente)
+       - Acesso venoso central: foi passado? Se sim, verificar posição
+       - PULMÕES: comparar com RX de 15/03:
+         * Houve piora do infiltrado? Novas consolidações?
+         * Derrame pleural? (PEEP baixa pode não recrutar se houver
+           derrame significativo)
+         * Pneumotórax? (risco com VMI, especialmente se PEEP alta)
+         * Atelectasias?
+
+----------------------------------------------------------------------
+BLOCO 6: DISCUSSÕES COM A EQUIPE
+----------------------------------------------------------------------
+
+□ 6.1  DISCUTIR COM PLANTONISTA/INTENSIVISTA:
+       - Otimização da PEEP (considerar PEEP mais alta, 10-14)
+       - Plano de desmame do BNM (meta: suspender em 24-48h)
+       - Transição de midazolam para propofol/dexmedetomidina
+       - Possibilidade de posição PRONA (se P/F < 150 mantida):
+         Prona por 16h/dia demonstrou redução de mortalidade em SDRA
+         grave (estudo PROSEVA). Discutir viabilidade.
+
+□ 6.2  DISCUTIR COM INFECTOLOGISTA (preceptor/staff):
+       - Resultado dos exames pendentes (CD4, CV, LAM, histoplasma)
+       - Necessidade de broncoscopia com LBA para diagnóstico
+         etiológico (agora facilitada pois paciente está intubada)
+       - Via do SMX-TMP (confirmar IV)
+       - Programação de início de TARV (meta: entre D8-D14 de SMX-TMP,
+         ou seja, entre 23/03 e 29/03)
+       - CrAg sérico: se positivo → punção lombar para excluir
+         meningite criptocócica ANTES de iniciar TARV
+
+□ 6.3  DISCUTIR COM FISIOTERAPIA:
+       - Parâmetros ventilatórios e estratégia protetora
+       - Plano de mobilização precoce (quando BNM for suspenso)
+       - Manobras de higiene brônquica
+
+□ 6.4  DISCUTIR COM NUTRIÇÃO:
+       - Início de dieta enteral precoce (após confirmação da SNE)
+       - Cálculo de necessidades calórico-proteicas
+
+----------------------------------------------------------------------
+BLOCO 7: EVOLUÇÃO MÉDICA DE 17/03 - COMO ESTRUTURAR
+----------------------------------------------------------------------
+
+   MODELO SUGERIDO (preencher com dados reais):
+
+   EVOLUÇÃO DIURNA 17/03/2026 - 4º DIH
+   Paciente em 4º DIH, D3 de SMX-TMP (IV/VO?), D4 de ceftriaxona,
+   D4 de azitromicina, D2 de fluconazol, D3 de corticoide adjuvante.
+   Evoluiu com falha de VNI em 16/03 às 16h, sendo submetida a IOT
+   (TOT 8.0). Atualmente em VMI modo PC, FiO2 ___%, PEEP ___ cmH2O.
+
+   S: Paciente sedada em VMI, sem possibilidade de relato subjetivo.
+      Informações colhidas da equipe de enfermagem do plantão noturno:
+      [intercorrências? estabilidade? febre? necessidade de DVA?]
+
+   O: SINAIS VITAIS (6h):
+      PA: ___x___ | FC: ___ | Tax: ___°C | SpO2: ___% (FiO2 ___%)
+      Débito urinário (últimas 12h): ___ mL (___ mL/kg/h)
+      Balanço hídrico 24h: ___mL
+
+      VENTILADOR:
+      Modo: ___ | FiO2: ___% | PEEP: ___ | Pinsp: ___ | FR prog: ___
+      Vt expirado: ___ mL (___ mL/kg peso predito)
+      P/F calculada: ___
+      Driving pressure: ___ (Pplat - PEEP)
+
+      SEDAÇÃO:
+      RASS: ___ | Drogas: [listar com doses]
+      BNM: [sim/não, qual, dose] | TOF: ___/4
+
+      EXAME FÍSICO:
+      [conforme Bloco 4 acima]
+
+      EXAMES COMPLEMENTARES:
+      Gasometria (17/03 ___h): pH ___ / PCO2 ___ / PO2 ___ / HCO3 ___
+        / BE ___ / Sat ___ / Lac ___ / K ___
+      Hemograma: [valores]
+      Função renal: Ur ___ Cr ___
+      Eletrólitos: Na ___ K ___ Ca ___ Mg ___ P ___
+      Hepático: TGO ___ TGP ___ BT ___ GGT ___
+      DHL: ___
+      [outros resultados disponíveis]
+
+      RX TÓRAX (17/03): [descrição]
+
+   A: LISTA DE PROBLEMAS ATIVOS:
+      #1 HIV dx recente - CD4: ___ / CV: ___ (ou aguardando)
+      #2 PCP grave - D3 SMX-TMP + corticoide D3 | P/F: ___
+      #3 SDRA em VMI (IOT 16/03) - pós-falha de VNI
+      #4 PAC? - D4 ceftriaxona + D4 azitromicina
+      #5 Candidíase [tipo] - D2 fluconazol
+      #6 Exclusão de outras IO: CrAg ___, LAM ___, histoplasma ___
+      #7 Distúrbios metabólicos: K ___, Mg ___
+
+      IMPRESSÃO: [análise integrada - melhorou? piorou? estável?]
+
+   P: [condutas organizadas por problema]
+
+----------------------------------------------------------------------
+BLOCO 8: APRENDIZADO - TEMAS PARA ESTUDAR HOJE À NOITE
+----------------------------------------------------------------------
+
+   Para aproveitar ao máximo este caso, sugiro estudo dos seguintes
+   temas (em ordem de prioridade):
+
+   1. VENTILAÇÃO MECÂNICA PROTETORA NA SDRA (ARDSnet)
+      - Vt 4-6 mL/kg peso predito
+      - Pplat < 30, driving pressure < 15
+      - Tabela PEEP/FiO2
+      - Posição prona: indicação e evidência (PROSEVA)
+
+   2. MIOPATIA DO DOENTE CRÍTICO (ICU-Acquired Weakness)
+      - Fatores de risco: BNM + corticoide (EXATAMENTE este caso)
+      - Prevenção: minimizar BNM, mobilização precoce
+      - Diagnóstico: fraqueza difusa ao despertar, CPK pode estar
+        normal, eletroneuromiografia
+
+   3. SEDAÇÃO EM UTI - Protocolo PADIS 2018
+      - Analgesia primeiro (analgosedation)
+      - Alvo de sedação leve (RASS 0 a -2) quando possível
+      - Despertar diário (daily sedation interruption)
+      - Midazolam vs propofol vs dexmedetomidina
+
+   4. BRONCOSCOPIA COM LBA EM PACIENTE COM HIV
+      - A paciente agora está intubada: broncoscopia é mais fácil
+      - LBA é o padrão-ouro para diagnóstico de PCP
+      - Pode também diagnosticar: TB, histoplasmose, CMV, bactérias
+      - Discutir indicação e timing com infectologista
+
+   5. INTUBAÇÃO DE SEQUÊNCIA RÁPIDA (ISR) - revisão
+      - Indicações, drogas, sequência de ações
+      - Etomidato vs cetamina como indutor
+      - Succinilcolina vs rocurônio para BNM
+
+================================================================================
+X. NOTA FINAL ATUALIZADA DO PRECEPTOR - 16/03/2026 NOITE
+================================================================================
+
+Luis Felipe, a evolução da paciente Milena para IOT às 16h era um cenário
+previsto e temido. Os sinais de alerta estavam todos presentes pela manhã:
+FR 40, uso de musculatura acessória, desconforto persistente apesar de
+melhora gasométrica. A VNI foi uma tentativa legítima, mas na PCP grave
+a taxa de falha é alta.
+
+A partir de agora, o caso ganha uma camada adicional de complexidade:
+ventilação mecânica, sedação, bloqueio neuromuscular, nutrição enteral,
+profilaxias, monitoramento de devices. Isso é excelente para o seu
+aprendizado, mas exige rigor e atenção redobrada.
+
+CINCO PRIORIDADES PARA AMANHÃ (em ordem):
+
+  (1) TROCAR SMX-TMP PARA IV (se ainda não foi feito) - é a medida mais
+      importante do ponto de vista infectológico;
+
+  (2) AVALIAR A NECESSIDADE DE MANTER O ROCURÔNIO - combinação com
+      corticoide é o maior fator de risco para miopatia do doente
+      crítico. Cada hora de BNM conta;
+
+  (3) SOLICITAR OS EXAMES FALTANTES (DHL, CrAg, hemoculturas, sorologias,
+      cultura de aspirado traqueal) - agora com TOT, a coleta de material
+      respiratório é mais fácil;
+
+  (4) VERIFICAR E OTIMIZAR PARÂMETROS DE VMI - especialmente PEEP
+      (provavelmente está baixa) e confirmar ventilação protetora;
+
+  (5) COBRAR RESULTADOS DE CD4, CARGA VIRAL, LAM E HISTOPLASMA - esses
+      resultados mudam conduta.
+
+Você está lidando com um caso real, grave e didaticamente riquíssimo.
+Use o checklist acima como roteiro, item por item. Boa sorte amanhã.
+
 ================================================================================
 AVISO IMPORTANTE: Este parecer tem finalidade exclusivamente didática, para
 uso no contexto do internato de infectologia. Todas as condutas devem ser
