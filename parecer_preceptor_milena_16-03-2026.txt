@@ -1,0 +1,469 @@
+================================================================================
+       PARECER DO PRECEPTOR DE INFECTOLOGIA - ANÁLISE DE EVOLUÇÃO MÉDICA
+================================================================================
+
+Paciente: MILENA DOMINGOS DE SOUZA | 44 anos | Feminino
+Prontuário: 20260045586 | Leito: UTI Térreo - 3 | Internação: 14/03/2026
+Evolução analisada: 16/03/2026 (3º DIH)
+Acadêmico responsável: LUIS FELIPE BARBOSA DA SILVA
+
+Preceptor avaliador: Preceptoria de Infectologia
+Data da análise: 16/03/2026
+
+================================================================================
+I. RESUMO DO CASO
+================================================================================
+
+Mulher, 44 anos, com diagnóstico RECENTE de infecção pelo HIV (B24), sem
+comorbidades documentadas, admitida em 14/03/2026 por insuficiência respiratória
+aguda grave, com hipótese principal de pneumocistose (Pneumocystis jirovecii -
+PCP). Encontra-se no 3º dia de internação hospitalar (DIH) e no 2º dia de
+tratamento com sulfametoxazol-trimetoprima (SMX-TMP). Cobertura empírica para
+pneumonia adquirida na comunidade (PAC) associada com ceftriaxona e azitromicina.
+Corticoterapia adjuvante em curso. Candidíase associada em tratamento com
+fluconazol (iniciado hoje). Aguardando resultados de CD4, carga viral, LAM e
+antígeno para histoplasma.
+
+================================================================================
+II. PONTOS POSITIVOS DA EVOLUÇÃO (o que o aluno fez bem)
+================================================================================
+
+1. IDENTIFICAÇÃO CORRETA DA SÍNDROME CLÍNICA PRINCIPAL
+   - O acadêmico reconheceu adequadamente o quadro de insuficiência respiratória
+     hipoxêmica grave no contexto de imunossupressão avançada pelo HIV como
+     provável pneumocistose. O padrão radiológico (infiltrado intersticial
+     bilateral difuso peri-hilar) é clássico de PCP.
+
+2. TRATAMENTO ADEQUADO DA PCP
+   - SMX-TMP é a droga de primeira linha. A dose prescrita (SMX 800mg + TMP
+     160mg, 2 comprimidos VO 6/6h = TMP 1.280 mg/dia) é compatível com a faixa
+     terapêutica de 15-20 mg/kg/dia do componente TMP para PCP grave. Seria
+     ideal registrar o peso da paciente para confirmar a adequação posológica.
+
+3. CORTICOTERAPIA ADJUVANTE CORRETAMENTE INDICADA
+   - A hidrocortisona 100mg IV 8/8h (300mg/dia, equivalente a ~75mg de
+     prednisona) foi corretamente iniciada. A indicação de corticoide adjuvante
+     na PCP é clara quando PaO2 < 70 mmHg em ar ambiente ou gradiente A-a > 35
+     mmHg. A gasometria de 15/03 (PaO2 69.2 já em MNR 15L) confirma hipoxemia
+     grave, justificando plenamente essa indicação.
+
+4. COBERTURA EMPÍRICA PARA PAC
+   - A associação ceftriaxona + azitromicina é adequada para cobertura de PAC
+     bacteriana concomitante, que deve sempre ser considerada em paciente com
+     HIV e infiltrado pulmonar, mesmo quando PCP é a hipótese principal.
+
+5. SOLICITAÇÃO DE EXAMES COMPLEMENTARES PERTINENTES
+   - Pedido de CD4 e carga viral (essencial para estadiamento e planejamento
+     de TARV), LAM urinário (rastreio de TB disseminada), antígeno para
+     histoplasma (micose endêmica relevante no Nordeste). Boa abrangência
+     diagnóstica.
+
+6. COMPARAÇÃO EVOLUTIVA DAS GASOMETRIAS
+   - O acadêmico comparou as gasometrias de 15/03 e 16/03, o que demonstra
+     raciocínio longitudinal. A tentativa de calcular a relação P/F e
+     interpretar o distúrbio ácido-básico é louvável.
+
+7. ARTICULAÇÃO MULTIPROFISSIONAL
+   - Discussão com fisioterapia sobre VNI e registro do parecer da fisioterapia
+     demonstram boa integração com a equipe.
+
+8. SIGILO DO DIAGNÓSTICO
+   - O registro de que apenas irmã e irmão estão cientes do diagnóstico B24
+     demonstra atenção ao sigilo e à autonomia da paciente. Isso é
+     fundamental tanto eticamente quanto legalmente.
+
+================================================================================
+III. PONTOS QUE NECESSITAM CORREÇÃO OU APROFUNDAMENTO
+================================================================================
+
+----------------------------------------------------------------------
+A. INTERPRETAÇÃO DA GASOMETRIA DE 16/03 - ERRO NA RELAÇÃO P/F
+----------------------------------------------------------------------
+
+   ACHADO: A impressão registra "relação P/F estimada < 100", porém essa
+   estimativa corresponde à gasometria de 15/03, NÃO à de 16/03.
+
+   CORREÇÃO:
+   - Gasometria 15/03 (MNR 15L → FiO2 estimada ~0.85-0.90):
+     PaO2 69.2 / FiO2 ~0.85 → P/F ≈ 81  >>>  GRAVE (< 100) ✓
+
+   - Gasometria 16/03 (MH 10L → FiO2 estimada ~0.50-0.60):
+     PaO2 127.2 / FiO2 ~0.50 → P/F ≈ 254  >>>  LEVE (200-300)
+     PaO2 127.2 / FiO2 ~0.60 → P/F ≈ 212  >>>  MODERADO-LEVE
+
+   CONCLUSÃO: Houve MELHORA SIGNIFICATIVA da oxigenação entre 15/03 e 16/03.
+   A paciente saiu de um padrão de SDRA grave (P/F ~81) para moderado-leve
+   (P/F ~212-254). Essa melhora deve ser registrada na impressão e valorizada
+   como resposta inicial ao tratamento.
+
+   ENSINAMENTO: Sempre recalcular a P/F com a gasometria mais recente e
+   atualizar a impressão. A relação P/F é dinâmica e acompanha a resposta
+   terapêutica.
+
+----------------------------------------------------------------------
+B. DISSOCIAÇÃO CLÍNICO-GASOMÉTRICA
+----------------------------------------------------------------------
+
+   ACHADO: Apesar da melhora gasométrica, a paciente permanece com FR 40 irpm,
+   uso de musculatura acessória e SpO2 93%. Há uma dissociação entre a melhora
+   da PaO2/P/F e o desconforto respiratório clínico persistente.
+
+   DISCUSSÃO: Possíveis explicações incluem:
+   1. Complacência pulmonar ainda muito reduzida (pulmão "duro" pela PCP);
+   2. Componente de ansiedade (já identificado pelo acadêmico);
+   3. Fadiga muscular respiratória incipiente;
+   4. A SpO2 de 93% (oximetria de pulso) pode subestimar a SatO2 real (97.9%
+      na gasometria) por má perfusão periférica ou artefato. Verificar
+      correlação.
+
+   CONDUTA SUGERIDA: Definir critérios claros de falha de VNI e threshold
+   para intubação orotraqueal (IOT). Pacientes com PCP grave e FR > 35
+   persistente após 1-2h de VNI devem ser reavaliados criticamente quanto
+   à necessidade de ventilação mecânica invasiva. Demora na IOT associa-se
+   a pior prognóstico.
+
+----------------------------------------------------------------------
+C. HALOPERIDOL PARA ANSIEDADE - ESCOLHA FARMACOLÓGICA INADEQUADA
+----------------------------------------------------------------------
+
+   ACHADO: Foi prescrito haloperidol 10 gotas VO 8/8h com justificativa de
+   "paciente ansiosa antes de VNI".
+
+   CORREÇÃO: Haloperidol é um antipsicótico típico (bloqueador dopaminérgico).
+   NÃO é ansiolítico. Seu uso para ansiedade isolada não tem respaldo em
+   evidências e expõe a paciente a efeitos adversos desnecessários (acatisia,
+   distonia, prolongamento de QTc, síndrome extrapiramidal).
+
+   ALTERNATIVAS MAIS ADEQUADAS:
+   - Ansiedade leve/moderada: orientação verbal, acolhimento, ambiente calmo
+   - Ansiedade que impede VNI: considerar baixa dose de midazolam (cautela
+     com depressão respiratória) ou dexmedetomidina (se disponível em UTI,
+     com vantagem de não deprimir drive respiratório)
+   - Se componente importante de agitação/delirium: aí sim haloperidol pode
+     ser considerado, mas com justificativa diferente
+
+   RECOMENDAÇÃO: Reavaliar indicação do haloperidol. Se a paciente está apenas
+   ansiosa (sem delirium, sem agitação psicomotora), suspender e optar por
+   abordagem não farmacológica ou ansiolítico adequado com cautela.
+
+----------------------------------------------------------------------
+D. DISCREPÂNCIA ENTRE EVOLUÇÃO E PRESCRIÇÃO - DIETA
+----------------------------------------------------------------------
+
+   ACHADO: A evolução registra "MANTENHO DIETA LIQUIDOPASTOSA conforme
+   aceitação", porém a prescrição determina "DIETA ZERO, VO, Contínuo".
+
+   DISCUSSÃO: Essa discrepância é grave. Provavelmente a dieta foi zerada por
+   conta do início da VNI (correto, pois há risco de broncoaspiração com
+   VNI + alimentação oral). Porém, a evolução deveria refletir essa mudança
+   e a justificativa. A incoerência entre evolução e prescrição pode causar
+   confusão na equipe de enfermagem e nutrição.
+
+   CORREÇÃO: A evolução deveria registrar:
+   "SUSPENDO DIETA VIA ORAL → DIETA ZERO, em virtude de início de VNI.
+   Reavaliar liberação de dieta conforme tolerância e janelas sem VNI."
+
+----------------------------------------------------------------------
+E. FLUCONAZOL - ESPECIFICAR O TIPO DE CANDIDÍASE
+----------------------------------------------------------------------
+
+   ACHADO: Iniciado fluconazol 200mg IV 12/12h (400mg/dia) para "candidíase",
+   sem especificação do sítio ou apresentação clínica.
+
+   DISCUSSÃO:
+   - Candidíase ORAL: fluconazol 100-200 mg/dia por 7-14 dias (ou nistatina
+     tópica em casos leves) seria suficiente.
+   - Candidíase ESOFÁGICA: fluconazol 200-400 mg/dia por 14-21 dias é o
+     esquema correto. A dose prescrita (400mg/dia) sugere essa hipótese.
+   - Candidíase INVASIVA: dose e duração diferentes.
+
+   RECOMENDAÇÃO: Registrar na evolução qual a apresentação da candidíase
+   (oral? esofágica? documentada por EDA?), queixas associadas (odinofagia,
+   disfagia, placas orais visíveis?). Em paciente com HIV avançado e PCP,
+   a candidíase esofágica é altamente provável (CD4 geralmente < 100), mas
+   deve ser documentada.
+
+----------------------------------------------------------------------
+F. DOSE DA SMX-TMP - VIA DE ADMINISTRAÇÃO
+----------------------------------------------------------------------
+
+   ACHADO: SMX-TMP prescrito por via ORAL em paciente com insuficiência
+   respiratória grave em VNI.
+
+   DISCUSSÃO: Para PCP grave (PaO2 < 70 mmHg em ar ambiente), as diretrizes
+   recomendam iniciar o tratamento por VIA ENDOVENOSA, especialmente quando
+   há comprometimento grave da oxigenação ou possibilidade de má absorção
+   oral. A via IV garante níveis séricos adequados na fase crítica.
+
+   RECOMENDAÇÃO: Considerar FORTEMENTE a troca para SMX-TMP intravenoso
+   (15-20 mg/kg/dia de TMP, dividido em 3-4 doses), pelo menos nos
+   primeiros 3-5 dias ou até melhora clínica significativa, quando se pode
+   fazer switch para VO. Além disso, com dieta zero pela VNI, a
+   administração oral pode ser impraticável.
+
+----------------------------------------------------------------------
+G. EXAMES COMPLEMENTARES FALTANTES
+----------------------------------------------------------------------
+
+   O acadêmico solicitou exames relevantes, mas faltam investigações
+   importantes para um paciente com HIV e imunossupressão grave:
+
+   EXAMES QUE DEVERIAM SER SOLICITADOS:
+   1. DHL (desidrogenase láctica): marcador clássico de PCP, tipicamente
+      muito elevado (>500 U/L). Serve como parâmetro de gravidade e
+      acompanhamento.
+   2. 1,3-beta-D-glucano: biomarcador fúngico, altamente sensível para PCP
+      (>90%). Útil para suporte diagnóstico quando não se dispõe de
+      broncoscopia com lavado broncoalveolar (LBA).
+   3. CrAg sérico (antígeno criptocócico): rastreio obrigatório em todo
+      paciente com CD4 < 200 (ou CD4 desconhecido com doença definidora).
+      Meningite criptocócica pode ser oligossintomática.
+   4. Sorologias basais: HBsAg, Anti-HBs, Anti-HBc, Anti-HCV, VDRL,
+      anti-Toxoplasma IgG, anti-CMV IgG, Chagas (região endêmica).
+   5. Hemoculturas (pelo menos 2 pares): bacteremia associada é possível.
+   6. Cultura de escarro para BAAR e fungos: mesmo com TRM-TB negativo,
+      a cultura é mais sensível e deve ser solicitada. Considerar também
+      cultura para micobactérias não tuberculosas.
+   7. CMV - carga viral (PCR quantitativo): pneumonite por CMV é diagnóstico
+      diferencial em imunossupressão grave.
+   8. Função renal e hepática atualizadas: SMX-TMP é nefrotóxico e pode
+      causar hepatotoxicidade. Monitoramento é essencial.
+
+----------------------------------------------------------------------
+H. ESTRUTURA E ORGANIZAÇÃO DA EVOLUÇÃO
+----------------------------------------------------------------------
+
+   SUGESTÕES DE MELHORIA NA FORMATAÇÃO:
+
+   1. USAR FORMATO SOAP OU SIMILAR MAIS ESTRUTURADO:
+      S - Subjetivo (queixas da paciente)
+      O - Objetivo (sinais vitais estruturados, exame físico, exames)
+      A - Avaliação/Impressão (análise dos problemas)
+      P - Plano (condutas para cada problema)
+
+   2. REGISTRAR SINAIS VITAIS EM FORMATO PADRONIZADO:
+      PA: ___x___ mmHg | FC: ___ bpm | FR: ___ irpm | Tax: ___°C
+      SpO2: ___% em [dispositivo] a [fluxo]L/min
+
+   3. CONTAR DIAS DE ANTIBIOTICOTERAPIA:
+      Exemplo: "D2 de SMX-TMP (15/03-05/04), D3 de ceftriaxona (14/03-21/03),
+      D3 de azitromicina (14/03-19/03), D1 de fluconazol (16/03-30/03)"
+      Isso facilita o acompanhamento e evita erros.
+
+   4. REGISTRAR BALANÇO HÍDRICO: em UTI, o controle de entradas e saídas
+      é fundamental, especialmente em paciente com infiltrado pulmonar
+      difuso onde sobrecarga hídrica pode piorar a hipoxemia.
+
+   5. LISTA DE PROBLEMAS ATIVOS: organizar os diagnósticos como lista
+      numerada facilita a passagem de caso e o raciocínio:
+      #1 HIV diagnóstico recente - aguardando CD4/CV, programar TARV
+      #2 PCP grave - D2 SMX-TMP + corticoide adjuvante
+      #3 Insuficiência respiratória hipoxêmica - VNI, vigilância para IOT
+      #4 PAC? - D3 ceftriaxona + azitromicina
+      #5 Candidíase (esofágica?) - D1 fluconazol
+      #6 Distúrbio hidroeletrolítico (hipoK) - reposição
+
+----------------------------------------------------------------------
+I. CONSIDERAÇÕES SOBRE A TARV
+----------------------------------------------------------------------
+
+   O acadêmico corretamente aguarda CD4 e carga viral antes de iniciar TARV.
+
+   ORIENTAÇÃO: Em infecções oportunistas graves como PCP, o início da TARV
+   deve ocorrer dentro de 2 SEMANAS após o início do tratamento da infecção
+   oportunista (conforme protocolo PCDT/MS e estudos ACTG A5164).
+
+   NÃO se deve iniciar TARV imediatamente (risco de IRIS - Síndrome
+   Inflamatória de Reconstituição Imune), mas também NÃO se deve atrasar
+   excessivamente. O ideal é iniciar entre o 8º e 14º dia de tratamento
+   da PCP, se a paciente estiver estável.
+
+   EXCEÇÕES para atrasar mais: coinfecção com meningite criptocócica ou
+   TB meníngea (nestes casos, aguardar 4-8 semanas).
+
+   ESQUEMA TARV PROVÁVEL: TDF + 3TC + DTG (Tenofovir + Lamivudina +
+   Dolutegravir) - esquema preferencial pelo MS para início de tratamento.
+   Verificar função renal antes do TDF.
+
+----------------------------------------------------------------------
+J. TRM-TB NEGATIVO - NÃO EXCLUI TUBERCULOSE
+----------------------------------------------------------------------
+
+   ACHADO: TRM-TB (GeneXpert) negativo em 14/03.
+
+   DISCUSSÃO: O TRM-TB em escarro tem sensibilidade de ~85-90% para TB
+   pulmonar bacilífera, mas pode ser negativo em formas paucibacilares,
+   comuns em pacientes com HIV avançado. A negatividade de um único TRM-TB
+   NÃO exclui tuberculose.
+
+   RECOMENDAÇÃO:
+   - Manter pesquisa com cultura de escarro para micobactérias (resultado
+     em 2-8 semanas, mas é o padrão-ouro);
+   - Repetir pesquisa de BAAR em escarro (2 amostras em dias consecutivos);
+   - O LAM urinário (já solicitado) pode auxiliar na TB disseminada;
+   - Se houver possibilidade de broncoscopia/LBA, solicitar pesquisa direta
+     e cultura para micobactérias e Pneumocystis no LBA.
+
+----------------------------------------------------------------------
+K. POTÁSSIO E SMX-TMP - ATENÇÃO ESPECIAL
+----------------------------------------------------------------------
+
+   ACHADO: K+ 3.16 mEq/L em 16/03 (hipoK leve). Reposição corretamente
+   prescrita.
+
+   DISCUSSÃO IMPORTANTE: O SMX-TMP em altas doses tem efeito semelhante à
+   amilorida (bloqueia canal ENaC no túbulo coletor), tendendo a causar
+   HIPERcalemia. Encontrar hipocalemia em paciente usando SMX-TMP em dose
+   alta sugere que a depleção de potássio corporal total é significativa
+   (a alcalose respiratória também contribui deslocando K+ para dentro da
+   célula).
+
+   ALERTA: Após a correção da alcalose respiratória (com melhora da
+   ventilação), o potássio tende a se redistribuir para o extracelular.
+   Somado ao efeito antinatriurético do SMX-TMP, pode haver REBOTE com
+   hipercalemia. Monitorar K+ pelo menos 2x/dia nos próximos dias.
+
+----------------------------------------------------------------------
+L. NOTIFICAÇÃO COMPULSÓRIA
+----------------------------------------------------------------------
+
+   ACHADO: Consta na evolução "Suspeita de doença de notificação compulsória:
+   Tuberculose".
+
+   DISCUSSÃO: O HIV/AIDS também é de notificação compulsória (Portaria
+   GM/MS nº 217/2023). Confirmar se a ficha de notificação de HIV/AIDS
+   já foi preenchida pela equipe ou pelo serviço de epidemiologia
+   hospitalar. Quanto à TB, com TRM-TB negativo, a notificação deve
+   ocorrer quando houver confirmação ou forte suspeita clínica, conforme
+   critérios do SINAN.
+
+================================================================================
+IV. SUGESTÃO DE PLANO ATUALIZADO (como preceptor orientaria a conduta)
+================================================================================
+
+#1 HIV - DIAGNÓSTICO RECENTE
+   - Aguardar CD4 e carga viral (resultados esperados em ___ dias)
+   - Solicitar genotipagem se indicado
+   - Programar início de TARV (TDF+3TC+DTG) entre D8-D14 de tto PCP
+   - Solicitar sorologias basais: HBsAg, anti-HBs, anti-HBc, anti-HCV,
+     VDRL, anti-Toxo IgG, anti-CMV IgG, Chagas
+   - Confirmar notificação compulsória de HIV/AIDS
+
+#2 PCP GRAVE - D2 DE TRATAMENTO (15/03→05/04)
+   - CONSIDERAR TROCAR SMX-TMP para VIA ENDOVENOSA (15-20mg/kg/dia TMP)
+   - Manter corticoide adjuvante: hidrocortisona 100mg IV 8/8h (reduzir
+     conforme protocolo após D5)
+   - Solicitar DHL e 1,3-beta-D-glucano
+   - Se possível: LBA para pesquisa direta de Pneumocystis
+
+#3 INSUFICIÊNCIA RESPIRATÓRIA HIPOXÊMICA
+   - P/F atual estimada ~212-254 (MELHORA em relação a 15/03 P/F ~81)
+   - Trial de VNI com monitorização contínua
+   - DEFINIR CRITÉRIOS DE FALHA DE VNI: FR > 35 após 1-2h, SpO2 < 90%,
+     piora do nível de consciência, instabilidade hemodinâmica → IOT
+   - Balanço hídrico rigoroso - EVITAR sobrecarga volêmica
+   - Manter fisioterapia respiratória
+
+#4 PAC? - D3 DE CEFTRIAXONA / D3 DE AZITROMICINA
+   - Manter ceftriaxona 2g IV 24/24h (14/03→21/03)
+   - Manter azitromicina 500mg VO 24/24h (14/03→19/03) - avaliar via se
+     dieta zero
+   - Solicitar hemoculturas (se ainda não colhidas)
+   - Reavaliar necessidade de manter cobertura para PAC conforme evolução
+
+#5 CANDIDÍASE (ESPECIFICAR: ORAL vs ESOFÁGICA)
+   - Documentar achado clínico (placas orais? odinofagia? disfagia?)
+   - Fluconazol 200mg IV 12/12h (16/03→30/03) - dose adequada se esofágica
+   - Se apenas oral: reduzir dose ou considerar tópico
+
+#6 EXCLUSÃO DE OUTRAS IO
+   - Solicitar CrAg sérico (criptococose)
+   - Aguardar LAM urinário e antígeno histoplasma
+   - Repetir BAAR escarro + cultura para micobactérias
+   - Solicitar CMV PCR quantitativo
+   - Se não melhorar em 3-5 dias: considerar diagnósticos alternativos
+     e broncoscopia
+
+#7 DISTÚRBIOS METABÓLICOS
+   - Repor K+ conforme prescrito, monitorar 2x/dia
+   - ATENÇÃO ao risco de hipercalemia tardia pelo SMX-TMP
+   - Verificar magnésio (MgSO4 prescrito - havia dosagem sérica?)
+   - Monitorar função renal (creatinina) e hepática (TGO/TGP) pela
+     hepato-nefrotoxicidade do SMX-TMP
+
+#8 SUPORTE GERAL
+   - Dieta ZERO enquanto em VNI (registrar motivo na evolução)
+   - Reavaliar haloperidol → preferir abordagem não farmacológica para
+     ansiedade ou, se necessário, ansiolítico mais adequado
+   - Manter cuidados de UTI (cabeceira elevada, SSVV, HGT, higiene oral)
+   - Profilaxia de TVP: avaliar necessidade (risco trombótico vs sangramento)
+
+================================================================================
+V. CONCEITOS-CHAVE PARA ESTUDO (para o acadêmico)
+================================================================================
+
+1. PNEUMOCISTOSE (PCP):
+   - Agente: Pneumocystis jirovecii (fungo)
+   - Ocorre geralmente com CD4 < 200 células/mm³
+   - Quadro clínico: dispneia progressiva, tosse seca, febre, hipoxemia
+   - RX típico: infiltrado intersticial bilateral "em vidro fosco"
+   - Diagnóstico: clínico-radiológico + DHL elevado + beta-glucano +
+     pesquisa direta em escarro induzido ou LBA
+   - Tratamento: SMX-TMP 15-20mg/kg/dia TMP por 21 dias
+   - Corticoide adjuvante se PaO2 < 70 ou gradiente A-a > 35
+   - Profilaxia secundária até CD4 > 200 por > 3 meses com TARV
+
+2. INTERPRETAÇÃO GASOMÉTRICA SERIADA:
+   - Sempre recalcular P/F com o exame mais recente
+   - Considerar o dispositivo de O2 e a FiO2 estimada
+   - P/F < 100: SDRA grave | 100-200: moderada | 200-300: leve
+   - Acompanhar tendência é mais útil que valor isolado
+
+3. INÍCIO DE TARV EM INFECÇÕES OPORTUNISTAS:
+   - PCP: iniciar TARV em 2 semanas
+   - Meningite criptocócica: aguardar 4-8 semanas
+   - TB: iniciar em 2-8 semanas conforme CD4 e resposta
+   - IRIS: complicação da reconstituição imune - piora paradoxal
+
+4. RASTREIO DE IO EM HIV AVANÇADO:
+   - CrAg sérico/LCR (criptococose)
+   - LAM urinário (TB disseminada)
+   - TRM-TB + cultura (TB pulmonar)
+   - Antígeno histoplasma (histoplasmose)
+   - Fundo de olho (retinite por CMV se CD4 < 50)
+   - Anti-Toxo IgG (risco de neurotoxoplasmose)
+
+================================================================================
+VI. NOTA FINAL DO PRECEPTOR
+================================================================================
+
+Luis Felipe, parabéns pelo esforço na elaboração da evolução. Você
+demonstrou boa capacidade de reconhecimento da síndrome clínica principal,
+escolha terapêutica adequada e pensamento diagnóstico abrangente. Os pontos
+que destaquei acima são oportunidades de aprimoramento, não falhas graves.
+
+Os principais pontos de atenção imediata são:
+
+  (1) Recalcular e atualizar a relação P/F com a gasometria de hoje -
+      houve melhora significativa, o que é um bom sinal;
+
+  (2) Considerar fortemente a troca do SMX-TMP para via endovenosa na
+      PCP grave, especialmente com a paciente em dieta zero/VNI;
+
+  (3) Reavaliar o haloperidol para ansiedade - não é a droga correta
+      para essa indicação;
+
+  (4) Solicitar os exames complementares faltantes (DHL, beta-glucano,
+      CrAg, hemoculturas, sorologias basais);
+
+  (5) Definir critérios claros de falha de VNI e threshold para IOT.
+
+Continue acompanhando a evolução da paciente diariamente, contando os dias
+de antibioticoterapia e comparando os parâmetros clínicos e laboratoriais.
+Esse caso é riquíssimo para aprendizado em infectologia.
+
+================================================================================
+AVISO IMPORTANTE: Este parecer tem finalidade exclusivamente didática, para
+uso no contexto do internato de infectologia. Todas as condutas devem ser
+validadas pelo médico assistente responsável.
+================================================================================
