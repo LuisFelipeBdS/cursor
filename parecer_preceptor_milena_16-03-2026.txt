@@ -1088,6 +1088,761 @@ CINCO PRIORIDADES PARA AMANHÃ (em ordem):
 Você está lidando com um caso real, grave e didaticamente riquíssimo.
 Use o checklist acima como roteiro, item por item. Boa sorte amanhã.
 
+################################################################################
+################################################################################
+##                                                                            ##
+##         17/03/2026 - 4º DIH - ATUALIZAÇÃO COMPLETA DO PRONTUÁRIO          ##
+##       PNEUMOTÓRAX HIPERTENSIVO + CHOQUE + IOT DIFÍCIL + DRENO DE TX       ##
+##                                                                            ##
+################################################################################
+################################################################################
+
+================================================================================
+XI. CRONOLOGIA DETALHADA DOS EVENTOS DE 16/03 TARDE/NOITE
+================================================================================
+
+Com base na evolução médica noturna, sinais vitais, balanço hídrico e
+prescrição fornecidos, a cronologia real dos eventos foi muito mais grave
+do que o inicialmente registrado pela enfermagem às 16h. Segue a
+reconstrução:
+
+  ~16-17h  Piora respiratória franca: FR 56 irpm, musculatura acessória
+           intercostal, desconforto expiratório, SpO2 90% em MNR 15L/flush.
+           FC 130-140 bpm (taquicardia sinusal compensatória).
+           Perfusão tecidual REDUZIDA. ECG (Glasgow) = 9 (O3 V2 M4).
+           MV reduzido em HTE, sem alteração à percussão.
+
+  17:30    GASOMETRIA PRÉ-IOT:
+           pH 7.50 / PCO2 32 / PO2 72 / BIC 26
+           → Alcalose respiratória + hipoxemia grave em MNR 15L
+           → P/F estimada ~72/0.85 ≈ 85 (SDRA GRAVE novamente)
+           Nota: a P/F que havia melhorado para ~212-254 na manhã
+           REGREDIU para ~85. Piora dramática em poucas horas.
+
+  ~17:30   IOT SOB SEQUÊNCIA RÁPIDA:
+           *** VIA AÉREA EXTREMAMENTE DIFÍCIL ***
+           - Cormack-Lehane GRAU IV (nenhuma estrutura glótica visível)
+           - Micrognatismo, dentes protrusos, pouco espaço para
+             laringoscópio
+           - IOT na TERCEIRA tentativa com auxílio de BOUGIE
+           - TOT 8.0, com sucesso
+           Drogas (conforme prescrição):
+           - Etomidato 2mg/mL: 1 AMP EV (dose única)
+           - Succinilcolina 100mg: 3 FA EV (= 300mg - dose única)
+
+  Pós-IOT  Acoplada à VMI → BAIXO VOLUME CORRENTE: 1.5 mL/kg
+  imediato  Ppico 50 cmH2O (EXTREMAMENTE ELEVADA)
+           Driving Pressure ~40 cmH2O (alvo < 15!)
+
+  18:42    GASOMETRIA PÓS-IOT (1h após):
+           pH 7.213 / PCO2 85.7 / PO2 154.2 / BIC 27.4 / BE 5.9
+           P/F ~220 / Lac 1.16
+           → ACIDOSE RESPIRATÓRIA GRAVE (PCO2 85.7!)
+           → Hipoventilação: pulmão não ventilava adequadamente
+           → Lactato ainda normal (perfusão mantida por compensação)
+
+  ~19h     RX PÓS-IOT: PNEUMOTÓRAX EM HTE - HIPERTENSIVO
+           Necessidade de noradrenalina 0.1 mcg/kg/min
+           → Punção de alívio: 2º EIC LECE (descompressão imediata)
+
+  ~19-20h  DRENAGEM TORÁCICA em selo d'água:
+           - Dreno nº 28, 5º EIC, entre LAA e LAM esquerda
+           - Borbulhamento PRESENTE (fístula aérea ativa)
+           - MELHORA IMEDIATA:
+             * SpO2: 90% → 99%
+             * Vt: 110 mL → 220 mL (1.5 → ~5 mL/kg)
+             * FiO2: 100% → 75%
+             * Driving Pressure: 40 → 15 cmH2O
+             * Complacência: muito reduzida, 12-17 mL/cmH2O
+
+  Noite    Acesso venoso em JEE para DVA (provisório até CVC)
+           Passagem de CVC (confirmada por evolução de hoje)
+           Familiar informado sobre gravidade do caso
+           Prognóstico reservado por dificuldade ventilatória e
+           provável fibrose pulmonar (observação da plantonista)
+
+================================================================================
+XII. DADOS DO PRONTUÁRIO - 16/03/2026 (SINAIS VITAIS, BH, PRESCRIÇÃO)
+================================================================================
+
+----------------------------------------------------------------------
+A. SINAIS VITAIS 16/03 (planilha completa)
+----------------------------------------------------------------------
+
+  Hora   PA        PAM   FC    FR   TAx    SpO2
+  00:00  92x60     70    143   30   35.0   92%
+  02:00  88x54     65    149   30   36.1   96%
+  04:00  193x61    105   146   30   36.4   95%
+  06:00  113x79    90    136   26   36.7   95%
+  11:00  120x82    94    132   51   36.0   95%
+  18:00  113x79    90    141   23   36.4   93%
+  20:00  124x85    98    130   20   36.7   95%
+  22:00  95x62     73    139   30   37.0   97%
+
+  ANÁLISE DO PRECEPTOR:
+
+  1. HIPOTERMIA ÀS 00:00 (35.0°C): achado preocupante em paciente
+     séptica/imunossuprimida. Hipotermia pode indicar sepse grave,
+     disfunção termorregulatória ou efeito de sedação. Monitorar.
+
+  2. PAM 65 ÀS 02:00 (PA 88x54): limiar inferior de perfusão adequada.
+     Se houve sinais de hipoperfusão associados, já configuraria choque.
+     Contexto: pós-IOT com sedação + pneumotórax hipertensivo não
+     drenado = muito provável choque obstrutivo.
+
+  3. PA 193x61 ÀS 04:00: pressão de pulso EXTREMAMENTE AMPLA (132 mmHg).
+     Padrão bizarro. Possíveis causas: artefato de medida, efeito de
+     cetamina (simpatomimético), descarga adrenérgica pós-ressuscitação,
+     ou oscilação após drenagem do pneumotórax. Dado isolado, provável
+     artefato ou medida não invasiva imprecisa.
+
+  4. FR 51 ÀS 11:00: taquipneia extrema, anterior à IOT. A paciente
+     já demonstrava exaustão respiratória franca. Comparar com FR 40
+     registrada na evolução matinal (10h) → houve piora rápida.
+     Às 18:00 FR 23 e às 20:00 FR 20: refletem VMI com sedação/BNM
+     (FR controlada pelo ventilador).
+
+  5. TAQUICARDIA PERSISTENTE (130-149 bpm): presente 24h inteiras.
+     Causas: desconforto respiratório, hipoxemia, ansiedade, dor,
+     hipovolemia, sepse, DVA (noradrenalina), cetamina. Avaliar se
+     persiste após otimização do suporte.
+
+  6. SpO2 92% ÀS 00:00 e 93% ÀS 18:00: menores valores registrados.
+     O 92% da meia-noite é pós-procedimento (drenagem). O 93% das
+     18h é peri-IOT. Restante ≥95% com suporte.
+
+  7. PRIMEIRO PICO FEBRIL ÀS 22:00 (37.0°C): ainda subfebril, mas
+     em tendência de alta (35.0 → 36.1 → 36.4 → 36.7 → 37.0).
+     Monitorar nas próximas horas. Paciente imunossuprimida pode não
+     montar febre franca mesmo com infecção grave.
+
+----------------------------------------------------------------------
+B. BALANÇO HÍDRICO 16/03
+----------------------------------------------------------------------
+
+  Hora                    Total parcial
+  20h                     -19.0 mL
+  22h                     +57.0 mL
+  00h                     +145.0 mL
+  02h                     +74.0 mL
+  04h                     +81.0 mL
+  06h                     +118.0 mL
+  Parcial noturno (19-6h) +456.0 mL
+  Balanço TOTAL 24h       +456.0 mL
+
+  ANÁLISE: Balanço positivo em +456 mL/24h. Moderadamente positivo.
+  Em paciente com SDRA e pulmão comprometido, balanço positivo agrava
+  edema pulmonar e piora oxigenação. Porém, no contexto de choque com
+  DVA, algum grau de positividade é esperado para manter perfusão.
+  META: buscar balanço NEUTRO a levemente negativo nas próximas 24-48h
+  à medida que a DVA for sendo desmamada. Evitar fluidoterapia liberal.
+
+----------------------------------------------------------------------
+C. PRESCRIÇÃO DE IOT - ANÁLISE DAS DOSES
+----------------------------------------------------------------------
+
+  PRESCRIÇÃO REGISTRADA:
+  1. Etomidato 2mg/mL: 1 AMP EV - dose única (IOT)
+  2. Succinilcolina 100mg: 3 FA EV - dose única (IOT) → 300mg total
+  3. Fentanil citrato 0.05mg/mL (10mL): 10 AMP EV contínuo → 4 mL/h
+  4. Midazolam 50mg/10mL: 6 AMP em 240mL SF0.9% → 20 mL/h
+  5. Rocurônio 50mg/5mL: 1 FR EV contínuo - dose de ATAQUE
+  6. Rocurônio 50mg/5mL: 10 AMP em 450mL SG5% → 20 mL/h
+
+  ANÁLISE DETALHADA:
+
+  *** SUCCINILCOLINA 300mg - DOSE EXCESSIVA ***
+  A dose padrão de succinilcolina para ISR é 1.0-1.5 mg/kg. Para uma
+  paciente de ~55-65 kg, a dose seria 55-97 mg. A dose prescrita de
+  300mg (3 frascos de 100mg) corresponde a ~4.6-5.5 mg/kg, o que é
+  3-5x a dose recomendada.
+
+  Possíveis justificativas: via aérea difícil com necessidade de
+  paralisia mais profunda/prolongada para múltiplas tentativas? Porém,
+  mesmo em via aérea difícil, a dose não deve exceder 1.5 mg/kg. O
+  risco de fasciculações intensas, hipercalemia, rabdomiólise e bloqueio
+  fase II aumenta com superdosagem.
+
+  IMPORTANTE: Quando há previsão de via aérea difícil, a escolha
+  preferível é rocurônio 1.2 mg/kg (com sugammadex disponível para
+  reversão, se a intubação falhar e precisar retomar ventilação
+  espontânea). A succinilcolina em dose padrão tem a vantagem da
+  ação ultrarrápida, mas em dose excessiva perde essa vantagem.
+
+  *** FENTANIL 4 mL/h (atualizado) ***
+  Solução: 10 AMP x 10mL x 0.05mg/mL = 500mcg em volume total ~100mL
+  Concentração: ~5 mcg/mL → 4 mL/h = 20 mcg/h
+  Nota: essa concentração parece baixa. Se as 10 ampolas não foram
+  diluídas adicionalmente e o volume total é 100mL puro, então a
+  concentração é 50 mcg/mL → 4 mL/h = 200 mcg/h. Verificar a
+  concentração real da solução. 200 mcg/h é dose usual para sedação
+  em VMI.
+
+  *** MIDAZOLAM 20 mL/h ***
+  Solução: 6 AMP x 50mg = 300mg em 300mL total (6x10mL + 240mL SF)
+  Concentração: 1 mg/mL → 20 mL/h = 20 mg/h de midazolam
+  Dose ALTA. Reforço da recomendação anterior: se sedação prolongada
+  >48h, migrar para propofol ou dexmedetomidina.
+
+  *** ROCURÔNIO CONTÍNUO 20 mL/h ***
+  Solução: 10 AMP x 50mg = 500mg em 500mL total (10x5mL + 450mL SG5%)
+  Concentração: 1 mg/mL → 20 mL/h = 20 mg/h de rocurônio
+  Para ~60kg = 0.33 mg/kg/h (dose usual: 0.3-0.6 mg/kg/h)
+  Dose na faixa inferior. Mantém-se o alerta sobre uso prolongado
+  com corticoide (risco de miopatia).
+
+================================================================================
+XIII. ANÁLISE DO PRECEPTOR - 17/03/2026 (4º DIH)
+================================================================================
+
+----------------------------------------------------------------------
+A. A P/F REGREDIU: A PACIENTE PIOROU ANTES DA IOT
+----------------------------------------------------------------------
+
+   DADO CRUCIAL: A gasometria das 17:30 (pré-IOT) mostrou PaO2 72 em
+   MNR 15L/flush (FiO2 ~0.85-0.90).
+   → P/F ≈ 72/0.85 = ~85 (SDRA GRAVE)
+
+   Compare com a evolução da P/F ao longo dos dias:
+   ┌────────────────────────────────────────────────────────────────┐
+   │ DATA/HORA        DISPOSITIVO    PaO2   FiO2est  P/F    SDRA  │
+   │ 15/03            MNR 15L        69.2   0.85     ~81    GRAVE │
+   │ 16/03 manhã      MH 10L         127.2  0.50-60  212-254 LEVE│
+   │ 16/03 17:30      MNR 15L/flush  72     0.85-90  ~81    GRAVE│
+   │ 16/03 18:42 VMI  FiO2 ~70%*    154.2  0.70     ~220   LEVE  │
+   │                  (*pós-drenagem provável)                     │
+   └────────────────────────────────────────────────────────────────┘
+
+   A paciente teve uma janela de melhora pela manhã (resposta inicial ao
+   SMX-TMP + corticoide), mas PIOROU DRASTICAMENTE à tarde, voltando ao
+   patamar de SDRA grave. Isso pode significar:
+   1. Progressão da PCP (doença em fase de piora antes da resposta
+      terapêutica plena - o tratamento da PCP leva 5-7 dias para
+      efeito clínico máximo);
+   2. Fadiga muscular respiratória com hipoventilação progressiva;
+   3. Novo evento pulmonar (o PTX pode ter começado antes da IOT como
+      PTX espontâneo pela PCP, e a IOT/VMI piorou → PTX hipertensivo);
+   4. Atelectasias progressivas.
+
+----------------------------------------------------------------------
+B. GLASGOW 9 ANTES DA IOT - ACHADO ALARMANTE
+----------------------------------------------------------------------
+
+   A paciente que pela manhã estava ACORDADA, CONSCIENTE E COLABORATIVA
+   (Glasgow 15) evoluiu para Glasgow 9 (O3 V2 M4) às ~17h.
+
+   Queda de Glasgow 15 → 9 em poucas horas é MUITO SIGNIFICATIVA.
+   Causas a considerar:
+
+   1. ENCEFALOPATIA HIPÓXICA: PaO2 72 em MNR 15L é hipoxemia grave,
+      mas geralmente não causa Glasgow 9 isoladamente. O cérebro tolera
+      PaO2 até ~50-55 antes de alteração grave de consciência.
+
+   2. HIPERCAPNIA: A gasometria pré-IOT NÃO mostrava hipercapnia
+      (PCO2 32), mas pode ter havido piora rápida entre 17:30 e o
+      momento da intubação (a gas pós-IOT mostra PCO2 85.7, sugerindo
+      retenção de CO2 progressiva).
+
+   3. CAUSAS INFECCIOSAS DO SNC (!!):
+      *** ALERTA INFECTOLÓGICO ***
+      - MENINGITE CRIPTOCÓCICA: pode ser oligossintomática em HIV
+        avançado. A queda do nível de consciência pode ser o primeiro
+        sinal. CrAg SÉRICO É URGENTE.
+      - NEUROTOXOPLASMOSE: lesões expansivas causam rebaixamento.
+        Solicitar anti-Toxo IgG e considerar TC de crânio.
+      - MENINGOENCEFALITE por outros agentes (TB meníngea, CMV, etc.)
+      - A queda do Glasgow pode NÃO ser apenas "respiratória".
+
+   4. SEPSE / ENCEFALOPATIA SÉPTICA: a perfusão tecidual já estava
+      reduzida. Encefalopatia séptica é diagnóstico de exclusão.
+
+   CONDUTA RECOMENDADA:
+   - Solicitar CrAg sérico HOJE (se não foi colhido) → PRIORIDADE
+   - Quando estável: considerar TC de crânio com contraste
+   - Avaliar necessidade de punção lombar (quando possível - sem
+     coagulopatia, sem hipertensão intracraniana)
+   - Após suspensão de sedação: avaliar nível de consciência basal
+
+----------------------------------------------------------------------
+C. PNEUMOTÓRAX POR PCP + BAROTRAUMA (VILI)
+----------------------------------------------------------------------
+
+   O pneumotórax em paciente com PCP é um evento reconhecido e temido.
+   A PCP grave causa:
+   - Dano alveolar difuso
+   - Formação de cistos subpleurais e pneumatoceles
+   - Fragilidade do parênquima pulmonar
+   Esses cistos podem romper espontaneamente ou com ventilação mecânica.
+
+   MECANISMO PROVÁVEL NESTE CASO:
+   A paciente já tinha complacência muito reduzida (pulmão "duro"),
+   refletindo dano alveolar extenso. Ao ser submetida à VMI com
+   pressões inspiratórias altas (Ppico 50 cmH2O necessária para gerar
+   mesmo volumes mínimos), houve ruptura alveolar → PTX hipertensivo.
+
+   O PTX também pode ter iniciado ANTES da IOT (PTX espontâneo pela
+   PCP), explicando parcialmente a piora respiratória súbita e a queda
+   de SpO2. A IOT e VMI apenas agravaram (transformando em PTX
+   hipertensivo).
+
+   EVIDÊNCIA A FAVOR DO PTX PRÉ-IOT: a colega registrou "MV reduzido
+   em HTE" ANTES da IOT. Ausência de timpanismo pode ocorrer com PTX
+   pequeno ou moderado, especialmente em taquipneica grave.
+
+   ENSINAMENTO:
+   - Em TODO paciente com PCP em VMI: manter alto índice de suspeição
+     para pneumotórax.
+   - Minimizar pressões (Ppico, Pplat, PEEP) ao máximo.
+   - Se piora súbita de SpO2 + aumento de pressão de pico + hipotensão
+     → pensar IMEDIATAMENTE em pneumotórax hipertensivo.
+   - Manter material para punção de alívio e drenagem SEMPRE à beira
+     do leito em pacientes com PCP em VMI.
+
+----------------------------------------------------------------------
+D. VIA AÉREA DIFÍCIL - REGISTRO E IMPLICAÇÕES
+----------------------------------------------------------------------
+
+   Cormack-Lehane grau IV é a pior classificação possível:
+   - Grau I: visualização completa das cordas vocais
+   - Grau II: visualização parcial
+   - Grau III: apenas epiglote visível
+   - Grau IV: NENHUMA estrutura glótica ou laríngea visível
+
+   A IOT na terceira tentativa com bougie em Cormack IV é tecnicamente
+   muito difícil e indica via aérea extremamente desafiadora.
+
+   *** IMPLICAÇÕES PRÁTICAS IMEDIATAS ***
+
+   1. DOCUMENTAR PROEMINENTEMENTE no prontuário:
+      "VIA AÉREA DIFÍCIL - CORMACK IV - IOT COM BOUGIE NA 3ª TENTATIVA"
+      Colocar identificador visual no leito e no prontuário.
+
+   2. EM CASO DE EXTUBAÇÃO ACIDENTAL:
+      - Alto risco de IMPOSSIBILIDADE de reintubação
+      - Deve haver material para via aérea difícil à beira do leito:
+        bougie, máscara laríngea (dispositivo supraglótico), kit de
+        cricotireoidostomia de emergência
+      - Se extubação acidental: chamar anestesista/mais experiente
+        IMEDIATAMENTE, não tentar ISR convencional
+      - Considerar: guia de intubação traqueal (airway exchange catheter)
+        mantido no TOT como segurança?
+
+   3. CUIDADOS REDOBRADOS COM O TOT:
+      - Fixação excelente (verificar 2x/dia)
+      - Marca no lábio: registrar e conferir a cada turno
+      - Pressão do cuff: 20-30 cmH2O, verificar regularmente
+      - Evitar tração acidental durante procedimentos, mudança de
+        decúbito, transporte
+      - Se necessário reposicionar: NUNCA remover sem planejamento
+
+----------------------------------------------------------------------
+E. COMPLACÊNCIA PULMONAR 12-17 mL/cmH2O - GRAVIDADE
+----------------------------------------------------------------------
+
+   NORMAL: 50-100 mL/cmH2O
+   PÓS-DRENAGEM: 12-17 mL/cmH2O (EXTREMAMENTE REDUZIDA)
+
+   Mesmo APÓS a resolução do pneumotórax (que era o fator restritivo
+   agudo), a complacência permaneceu gravemente comprometida. Isso
+   significa que o PARÊNQUIMA PULMONAR em si está muito doente.
+
+   A plantonista usou o termo "provável fibrose pulmonar" - na verdade,
+   o mais provável é DANO ALVEOLAR DIFUSO (DAD) pela PCP, que pode
+   evoluir para:
+   - Fase exsudativa (edema, membrana hialina) → primeiros dias
+   - Fase proliferativa (organização) → 7-14 dias
+   - Fase fibrótica (fibrose irreversível) → >14 dias
+
+   A paciente está no D3 de PCP tratada. Ainda é CEDO para fibrose
+   irreversível. A complacência pode melhorar ao longo de dias/semanas
+   com o tratamento adequado. O prognóstico é reservado, mas NÃO é
+   necessariamente terminal neste momento.
+
+   ESTRATÉGIA VENTILATÓRIA PARA BAIXA COMPLACÊNCIA:
+   1. Ventilação ULTRA-PROTETORA: Vt ≤ 4 mL/kg peso predito
+   2. Hipercapnia permissiva: aceitar PCO2 até 60-80 se pH > 7.20
+   3. Pplat < 27-30, Driving Pressure < 15
+   4. PEEP titulada: suficiente para manter recrutamento sem
+      hiperinsuflação (cuidado com PTX contralateral!)
+   5. FR mais alta (20-30/min) para compensar Vt baixo
+   6. Se P/F < 150 persistente: considerar PRONA (com dreno de tórax
+      é factível, apenas mais cuidadoso)
+   7. Monitorar complacência DIARIAMENTE como marcador de evolução
+
+----------------------------------------------------------------------
+F. AVALIAÇÃO DO EXAME FÍSICO DE 17/03 MANHÃ
+----------------------------------------------------------------------
+
+   DADOS DO ACADÊMICO:
+   - Grave, compensada hemodinamicamente com noradrenalina (vazão 5)
+   - FC 144 (taquicardia persistente), normotensa
+   - Bem perfundida (TEC <3s)
+   - Pulmões: MV presente, AUSCULTA ABOLIDA EM PULMÃO ESQUERDO
+   - Sem ruídos adventícios
+   - Abdome inocente, sem hepatovisceromegalias
+
+   ANÁLISE:
+
+   1. NORADRENALINA VAZÃO 5:
+      Para calcular a dose real (mcg/kg/min), preciso da concentração
+      da solução. Padrão usual: 4 ampolas (16mg) em 234mL SF0.9% =
+      solução a 64 mcg/mL. Se vazão 5 mL/h = 320 mcg/h = 5.33 mcg/min.
+      Para ~60kg = ~0.09 mcg/kg/min (dose BAIXA).
+      Se a concentração for outra (ex: 8 ampolas), a dose dobra.
+      REGISTRAR a concentração e calcular dose em mcg/kg/min.
+
+   2. AUSCULTA ABOLIDA EM PULMÃO ESQUERDO:
+      *** ACHADO QUE EXIGE AÇÃO IMEDIATA ***
+      O dreno de tórax está em hemitórax esquerdo. Se MV abolido:
+      (a) O dreno NÃO está funcionando adequadamente?
+      (b) Pneumotórax PERSISTENTE ou RECORRENTE?
+      (c) O pulmão esquerdo colapsou completamente?
+      (d) Grande fístula broncopleural com escape aéreo maciço?
+      (e) Atelectasia total do pulmão esquerdo?
+      (f) Derrame pleural volumoso associado?
+
+      CONDUTA URGENTE:
+      → RX TÓRAX AGORA (se não foi feito na manhã)
+      → Verificar dreno: está borbulhando? Oscilando? Drenando líquido?
+      → Se PTX persistente com dreno: considerar sucção na parede
+        (-20 cmH2O) ao invés de apenas selo d'água
+      → Se pulmão totalmente colapsado sem reexpansão: pode indicar
+        fístula broncopleural grande ou obstrução brônquica
+
+   3. TEC <3s COM DVA:
+      A perfusão periférica está preservada COM AUXÍLIO de noradrenalina.
+      Sem DVA, provavelmente haveria hipoperfusão. Isso define CHOQUE
+      DISTRIBUTIVO (séptico) + possível componente OBSTRUTIVO residual
+      (se PTX persistente em HTE).
+
+   4. ABDOME INOCENTE, SEM HEPATOVISCEROMEGALIAS:
+      Bom registro. A ausência de hepatoesplenomegalia afasta alguns
+      diagnósticos (histoplasmose disseminada com hepatomegalia,
+      linfoma, MAC disseminada com esplenomegalia), embora não os
+      exclua definitivamente.
+
+----------------------------------------------------------------------
+G. EVOLUÇÃO DA COLEGA DO NOTURNO - PONTOS DE DESTAQUE
+----------------------------------------------------------------------
+
+   A evolução do noturno é muito rica e merece elogios pela riqueza de
+   detalhes. Destaco pontos para aprendizado:
+
+   1. EXCELENTE: Descrição minuciosa da via aérea difícil (Cormack IV,
+      micrognatismo, bougie, 3 tentativas). Isso é FUNDAMENTAL para a
+      segurança da paciente.
+
+   2. EXCELENTE: Identificação precoce do pneumotórax no RX pós-IOT e
+      conduta imediata (punção de alívio → drenagem).
+
+   3. EXCELENTE: Monitoramento da mecânica ventilatória com driving
+      pressure e complacência antes e após drenagem. Isso demonstra
+      entendimento de ventilação protetora.
+
+   4. BOM: Informação ao familiar sobre gravidade. Comunicação com
+      família é essencial, especialmente em caso grave.
+
+   5. PONTO DE ATENÇÃO: A observação sobre "provável fibrose pulmonar"
+      e "prognóstico ruim com risco elevado de óbito" é válida como
+      impressão clínica, mas deve ser contextualizada: a paciente está
+      no D3 de tratamento da PCP e o tratamento leva 5-7 dias para
+      efeito máximo. A baixa complacência pode refletir dano alveolar
+      REVERSÍVEL (fase exsudativa), não necessariamente fibrose
+      estabelecida. Ainda é cedo para afirmar prognóstico terminal.
+
+================================================================================
+XIV. LISTA ATUALIZADA DE PROBLEMAS ATIVOS - 17/03/2026 (4º DIH)
+================================================================================
+
+  #1  HIV DIAGNÓSTICO RECENTE
+      - Aguardando CD4 e carga viral
+      - TARV planejada para D8-D14 de SMX-TMP (23/03-29/03)
+        ** Pode ser adiada se instabilidade clínica persistente **
+      - Sorologias basais: foram solicitadas? Resultados?
+      - Notificação compulsória: confirmar preenchimento
+
+  #2  PCP GRAVE - D3 DE SMX-TMP (15/03 → 05/04)
+      - Via: CONFIRMAR SE FOI TROCADO PARA IV
+      - Manter corticoide adjuvante: D3 de hidrocortisona
+      - Redução do corticoide programada para D6 (20/03)
+      - Resposta terapêutica esperada em D5-D7 (20-22/03)
+      - Monitorar: DHL seriado, complacência pulmonar, P/F
+
+  #3  SDRA GRAVE EM VMI + PNEUMOTÓRAX ESQUERDO DRENADO
+      - VMI modo PC | FiO2 e PEEP atuais: REGISTRAR
+      - Dreno de tórax em HTE: verificar funcionamento
+      - MV ABOLIDO em pulmão esquerdo: investigar causa
+      - Complacência basal 12-17 (gravemente reduzida)
+      - Ventilação ultra-protetora: Vt ≤4 mL/kg, DP <15
+      - Considerar prona se P/F <150 persistente
+      - VIA AÉREA DIFÍCIL: Cormack IV documentado
+
+  #4  CHOQUE (SÉPTICO + OBSTRUTIVO?)
+      - Noradrenalina em curso (vazão 5 - calcular mcg/kg/min)
+      - CVC em posição
+      - Alvo: PAM ≥65, lactato em queda, diurese >0.5 mL/kg/h
+      - Balanço hídrico: meta neutra a levemente negativa
+      - Avaliar: precisa de segundo vasopressor? Hidrocortisona
+        (já em uso como adjuvante PCP) serve como dose de estresse?
+
+  #5  PAC? - D4 CEFTRIAXONA / D4 AZITROMICINA
+      - Ceftriaxona 2g IV 24/24h (14/03 → 21/03) - D4
+      - Azitromicina 500mg (14/03 → 19/03) - D4
+        Via: converter para IV ou SNE (se confirmada posição)
+      - Reavaliar duração conforme evolução clínica
+
+  #6  CANDIDÍASE - D2 FLUCONAZOL
+      - Fluconazol 200mg IV 12/12h (16/03 → 30/03) - D2
+      - Especificar tipo (oral vs esofágica)
+
+  #7  PNEUMOTÓRAX HTE + DRENO DE TÓRAX
+      - Dreno nº28 em selo d'água - 5º EIC entre LAA e LAM
+      - Verificar: borbulhamento? Oscilação? Débito?
+      - RX de controle: pulmão reexpandiu?
+      - Se PTX persistente: considerar sucção na parede
+      - RISCO DE PTX CONTRALATERAL: PCP causa cistos bilaterais
+
+  #8  INVESTIGAÇÃO DE REBAIXAMENTO DO NÍVEL DE CONSCIÊNCIA
+      - Glasgow 15 → 9 em poucas horas (16/03)
+      - Causas respiratórias (hipóxia/hipercapnia) vs SNC
+      - SOLICITAR URGENTE: CrAg sérico (meningite criptocócica?)
+      - Considerar: TC crânio, anti-Toxo IgG
+      - Reavaliar consciência quando sedação for suspensa
+
+  #9  EXCLUSÃO DE OUTRAS IO
+      - CrAg sérico: SOLICITAR se não feito (URGENTE!)
+      - LAM urinário: cobrar resultado
+      - Antígeno histoplasma: cobrar resultado
+      - Cultura de aspirado traqueal: SOLICITAR HOJE
+      - Hemoculturas: COLETAR HOJE se não feitas
+      - CMV PCR quantitativo: solicitar
+
+  #10 DISTÚRBIOS METABÓLICOS / MONITORAMENTO
+      - K+: VERIFICAR CONTROLE (risco de hiper pelo SMX-TMP)
+      - Função renal: Ur/Cr (nefrotoxicidade do SMX-TMP + DVA)
+      - Função hepática: TGO/TGP/BT (hepatotoxicidade)
+      - Mg2+, Ca2+, P: repor conforme necessidade
+      - DHL: solicitar como marcador de PCP
+
+  #11 SUPORTE / DEVICES / PROFILAXIAS
+      - TOT 8.0: fixação, posição, cuff (VIA AÉREA DIFÍCIL!)
+      - CVC: posição (RX), sinais de infecção, curativo
+      - SNE: confirmação radiológica → dieta enteral precoce
+      - SVD: débito urinário horário, cuidados de bundle
+      - Dreno tórax: funcionamento, aspecto, débito
+      - Sedação: protocolo RASS, avaliar desmame de BNM
+      - Profilaxia TVP: PRESCREVER se não feito
+      - Proteção ocular: PRESCREVER se em BNM
+      - Higiene oral: manter (prevenção PAV)
+
+================================================================================
+XV. CONDUTAS PRIORITÁRIAS PARA 17/03/2026 - EM ORDEM DE URGÊNCIA
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                    *** URGÊNCIA IMEDIATA ***                       │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  1. RX TÓRAX AGORA (se não feito):                                 │
+│     - Avaliar pulmão esquerdo (MV abolido com dreno!)              │
+│     - Posição do TOT (via aérea difícil - confirmar posição ideal) │
+│     - Posição do CVC                                               │
+│     - Posição da SNE                                               │
+│     - Comparar infiltrado bilateral com RX anterior                │
+│                                                                     │
+│  2. VERIFICAR DRENO DE TÓRAX À BEIRA DO LEITO:                    │
+│     - Borbulhando? Oscilando? Débito líquido?                     │
+│     - Se não borbulha E pulmão não expandiu no RX:                 │
+│       dreno obstruído ou mal posicionado → chamar cirurgião        │
+│     - Se borbulha intensamente: fístula broncopleural grande       │
+│       → discutir com cirurgião de tórax                            │
+│     - Considerar sucção na parede (-20 cmH2O)                     │
+│                                                                     │
+│  3. GASOMETRIA ARTERIAL AGORA:                                     │
+│     - Calcular P/F com FiO2 exata do ventilador                   │
+│     - Avaliar ventilação (PCO2) e equilíbrio ácido-básico         │
+│     - Comparar com 18:42 de ontem                                  │
+│     - Verificar lactato (tendência: estava 1.16 ontem)             │
+│     - Verificar potássio                                           │
+│                                                                     │
+│  4. SOLICITAR CrAg SÉRICO (antígeno criptocócico):                │
+│     - Glasgow 15→9 antes da IOT precisa de investigação            │
+│     - CrAg negativo afasta criptococose com >99% de sensibilidade  │
+│     - CrAg positivo: punção lombar antes de iniciar TARV           │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                    *** PRIORIDADE ALTA ***                          │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  5. CONFIRMAR SMX-TMP INTRAVENOSO:                                 │
+│     Paciente intubada, em choque. Via oral/SNE é insuficiente.     │
+│     Se ainda não foi convertido: CONVERTER HOJE.                   │
+│     D3 de tratamento (15/03→05/04).                                │
+│                                                                     │
+│  6. COLETAR EXAMES LABORATORIAIS COMPLETOS:                        │
+│     - Hemograma, Ur, Cr, Na, K, Ca, Mg, P                         │
+│     - TGO, TGP, BT, GGT, FA                                       │
+│     - DHL (LDH) ← marcador de PCP                                 │
+│     - PCR, hemoculturas (2 pares)                                  │
+│     - Cultura de aspirado traqueal (BAAR, fungos, bactérias)       │
+│     - CrAg sérico (já listado acima)                               │
+│     - Sorologias basais (HBsAg, anti-HBc, anti-HCV, VDRL,        │
+│       anti-Toxo IgG, anti-CMV IgG)                                 │
+│     - Cobrar: CD4, carga viral, LAM, antígeno histoplasma          │
+│                                                                     │
+│  7. AVALIAR RETIRADA DO ROCURÔNIO (BNM CONTÍNUO):                 │
+│     - Cada hora de BNM + corticoide = mais risco de miopatia      │
+│     - Se SpO2 OK, sem dissincronia: tentar suspender               │
+│     - Se não puder suspender: documentar indicação e monitorar TOF │
+│                                                                     │
+│  8. OTIMIZAR PARÂMETROS DE VMI:                                    │
+│     - Registrar TODOS os parâmetros: modo, FiO2, PEEP, Pinsp,     │
+│       FR, Vt, Pplat, DP, complacência                              │
+│     - Verificar se ventilação é ultra-protetora (Vt ≤4 mL/kg)     │
+│     - Avaliar titulação de PEEP (cuidado: risco de PTX bilateral!) │
+│     - Se P/F <150 apesar de otimização: discutir PRONA             │
+│                                                                     │
+│  9. PRESCREVER PROFILAXIA DE TVP:                                  │
+│     - Enoxaparina 40mg SC 1x/dia ou HNF 5000UI SC 8/8h            │
+│     - Avaliar contraindicações (drenagem torácica recente, risco   │
+│       de sangramento)                                               │
+│                                                                     │
+│  10. CONFIRMAR POSIÇÃO DA SNE (RX) → INICIAR DIETA ENTERAL:       │
+│      - Nutrição enteral precoce (dentro de 24-48h da IOT)          │
+│      - Solicitar parecer de NUTRIÇÃO                                │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│                    *** IMPORTANTE ***                               │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  11. DOCUMENTAR VIA AÉREA DIFÍCIL:                                 │
+│      - Registro proeminente no prontuário                           │
+│      - Identificação visual no leito                                │
+│      - Material de via aérea difícil à beira do leito              │
+│      - Informar equipe de enfermagem sobre risco                   │
+│                                                                     │
+│  12. DISCUTIR COM INFECTOLOGISTA:                                  │
+│      - Piora clínica no D3 de tratamento: esperado ou preocupante? │
+│      - Indicação de broncoscopia com LBA (paciente intubada)       │
+│      - Investigação do rebaixamento de consciência                  │
+│      - CrAg resultado: conduta se positivo                         │
+│      - Timing da TARV (pode precisar adiar se instável)            │
+│                                                                     │
+│  13. DISCUTIR COM CIRURGIA DE TÓRAX (se PTX persistente):          │
+│      - Fístula broncopleural?                                       │
+│      - Necessidade de segundo dreno?                                │
+│      - Sucção na parede?                                            │
+│                                                                     │
+│  14. COMUNICAÇÃO COM FAMÍLIA:                                       │
+│      - A família já foi informada da gravidade (noturno)            │
+│      - Atualizar sobre evolução de hoje                             │
+│      - Manter sigilo do diagnóstico B24 (apenas Micarla e Maxwell) │
+│      - Considerar: iniciar discussão sobre diretivas antecipadas   │
+│        e cuidados paliativos proporcionados (sem abandonar          │
+│        tratamento ativo, mas preparar a família)                    │
+│                                                                     │
+│  15. AVALIAR NECESSIDADE DE DVA:                                    │
+│      - Calcular dose real de noradrenalina (mcg/kg/min)            │
+│      - Se estável com PAM >65: iniciar desmame lento               │
+│      - Se precisar aumentar: reavaliar causa (PTX? hipovolemia?    │
+│        sepse? pneumonia associada ao ventilador?)                   │
+│      - A hidrocortisona já serve como "dose de estresse" para      │
+│        choque séptico (equivalente funcional)                       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+XVI. CONCEITOS-CHAVE ADICIONAIS PARA ESTUDO (17/03)
+================================================================================
+
+1. PNEUMOTÓRAX NA PCP:
+   - Incidência: 2-9% dos pacientes com PCP
+   - Mecanismo: cistos subpleurais/pneumatoceles que rompem
+   - Pode ser espontâneo (antes de VMI) ou por VILI (durante VMI)
+   - Bilateral em até 25% dos casos → VIGIAR LADO CONTRALATERAL!
+   - Tratamento: drenagem torácica. Se persistente: sucção, pleurodese
+   - Alta mortalidade quando associado a VMI
+
+2. VIA AÉREA DIFÍCIL:
+   - Classificação de Cormack-Lehane (I a IV)
+   - Preditores: Mallampati, distância tireomentoniana, abertura oral,
+     micrognatismo, dentes protrusos (TODOS presentes nesta paciente)
+   - Dispositivos de resgate: bougie, máscara laríngea, videolaringoscopia
+   - Plano B/C: dispositivos supraglóticos → cricotireoidostomia
+   - DOCUMENTAÇÃO OBRIGATÓRIA: nota no prontuário + identificação visual
+
+3. BAROTRAUMA / VILI:
+   - Causas: Ppico alta, Pplat alta, Driving Pressure alta, PEEP
+     excessiva, volumes correntes altos
+   - Manifestações: pneumotórax, pneumomediastino, enfisema subcutâneo,
+     pneumoperitônio
+   - Prevenção: ventilação protetora estrita (ARDSnet), minimizar pressões
+   - Driving Pressure <15 cmH2O é o parâmetro mais associado a
+     sobrevida em SDRA (estudo Amato et al., NEJM 2015)
+
+4. CHOQUE NO PACIENTE COM PCP/HIV:
+   - Choque séptico: infecção grave + disfunção orgânica + hipotensão
+     refratária a volume → DVA
+   - Choque obstrutivo: pneumotórax hipertensivo → alívio por drenagem
+   - Podem coexistir (como neste caso)
+   - Tratamento: tratar causa + volume (com cautela em SDRA) + DVA +
+     corticoide (já em uso)
+
+5. DANO ALVEOLAR DIFUSO (DAD) NA PCP:
+   - Fase exsudativa (dias 1-7): edema, membrana hialina → POTENCIALMENTE
+     REVERSÍVEL com tratamento
+   - Fase proliferativa (dias 7-21): organização do exsudato
+   - Fase fibrótica (>21 dias): fibrose irreversível
+   - Implicação: a complacência de 12-17 no D3 pode melhorar! Não é
+     necessariamente prognóstico terminal. Reavaliar em D5-D7.
+
+================================================================================
+XVII. NOTA DO PRECEPTOR - 17/03/2026
+================================================================================
+
+Luis Felipe, a noite de ontem foi dramática para a paciente Milena. O que
+aconteceu ilustra o conceito de "cascata de deterioração" no paciente
+crítico: insuficiência respiratória refratária → IOT difícil → VMI com
+pressões elevadas (pulmão doente) → pneumotórax hipertensivo → choque
+obstrutivo → necessidade de DVA → CVC → drenagem torácica.
+
+Cada evento complicou o anterior, e a equipe do noturno manejou a cadeia
+de eventos com competência. A descrição detalhada da via aérea difícil e
+do manejo do pneumotórax pela sua colega é excelente.
+
+Pontos fundamentais para HOJE:
+
+  (1) O MV ABOLIDO em pulmão esquerdo é o achado mais preocupante da
+      manhã. PRECISA de RX urgente e avaliação do dreno AGORA. Se o
+      pulmão não reexpandiu, a ventilação está sendo feita apenas pelo
+      pulmão direito (que também está doente pela PCP).
+
+  (2) A QUEDA DO GLASGOW de 15→9 ANTES da IOT não foi adequadamente
+      investigada. Pode ser "apenas" hipóxia/hipercapnia, mas pode ser
+      meningite criptocócica ou neurotoxoplasmose. O CrAg sérico é
+      barato, rápido e tem sensibilidade >99%. SOLICITE HOJE.
+
+  (3) A complacência de 12-17 é preocupante mas NÃO é sentença de
+      morte. Estamos no D3 de tratamento; a PCP leva 5-7 dias para
+      resposta. Ainda há esperança de melhora. Monitore diariamente.
+
+  (4) A via aérea difícil (Cormack IV) torna qualquer extubação
+      acidental potencialmente FATAL. Documente, sinalize, prepare
+      material. Comunique a toda a equipe.
+
+  (5) NÃO esqueça: SMX-TMP para IV, profilaxia de TVP, cultura de
+      aspirado traqueal (oportunidade única com o TOT), cobrar
+      resultados pendentes (CD4, CV, LAM, histoplasma).
+
+O caso é gravíssimo, mas a conduta até agora tem sido globalmente
+adequada. O foco agora é estabilizar, otimizar a ventilação, investigar
+causas sobrepostas e aguardar a resposta ao tratamento antiPCP nas
+próximas 48-72h.
+
 ================================================================================
 AVISO IMPORTANTE: Este parecer tem finalidade exclusivamente didática, para
 uso no contexto do internato de infectologia. Todas as condutas devem ser
